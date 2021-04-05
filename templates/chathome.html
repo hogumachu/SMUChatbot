@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot</title>
+    {% block styles %}
+    <script>
+    function info() {
+        alert('상명대학교 캡스톤디자인 채팅해조입니다.');
+    }
+
+    function onEnter() {
+        if (window.event.keyCode == 13) {
+            sendAsk();
+        }
+    }
+
+    function sendAsk() {
+        ctext = document.getElementById("chattext").value;
+        if(ctext == "") {
+            document.getElementById("chattext").focus();
+            return false;
+        }
+
+        addtext = "<div style='margin:15px 0;text-align:right;'><span style='background-color:#A9D0F5;padding:5px 8px;border-radius:8px;'>" + ctext + "</span> </div>"
+        document.getElementById("chatbox").innerHTML += addtext;
+
+        if(ctext == "안녕" || ctext == "안녕하세요" || ctext == "반가워" || ctext == "넌 누구야?"){
+            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕하세요. 저는 채팅해조 입니다. " + "</span> </div>"
+            document.getElementById("chatbox").innerHTML += bottext;
+        } else if(ctext == "갈게" || ctext == "나갈게" || ctext == "바이" || ctext == "ㅃㅇ" || ctext == "ㅂㅇ" || ctext == "ㅂㅂ" || ctext == "") {
+            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕히가세요. " + "</span> </div>"
+            document.getElementById("chatbox").innerHTML += bottext;
+        } else {
+            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "무슨 말인지 모르겠어요." + "</span> </div>"
+            document.getElementById("chatbox").innerHTML += bottext;
+        }
+        document.getElementById("chattext").value="";
+    }
+    </script>
+
+
+
+    <style>
+        .chatheader {
+        position:fixed;
+        left:0;
+        top:0;
+        width:100%;
+        padding:10px 0;
+        background-color:#3388cc;
+        color:#FFF;
+        text-align:center;
+        }
+        .chatfooter {
+        position:fixed;
+        left:0;
+        bottom:0;
+        width:100%;
+        padding:10px 0;
+        background-color:#FFF;
+        color:#008;
+        text-align:center;
+        }
+    </style>
+    {% endblock %}
+</head>
+
+<body style="height:100%;background-color:#F2F2F2;">
+
+<div class="chatheader">
+    <table width="100%">
+        <tr>
+            <td width="50%", align="left">상명대학교 채팅해조</td>
+            <td width="50%", align="right">
+                <span onclick="info()" style="cursor:pointer;">info</span>
+            </td>
+        </tr>
+    </table>
+</div>
+<div style="height:100vh;margin:60px 0;background-color:#F2F2F2;" id="chatbox" ></div>
+<div class="chatfooter">
+    <table width="100%">
+        <tr>
+            <td width="85%", align="left">
+                <input type="text" id="chattext" style="padding:10px 0;width:100%;"onkeyup="onEnter()">
+            </td>
+            <td width="15%", align="right">
+                <button style="padding:10px 0;width:100%;" onclick="sendAsk()">전송</button>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+</body>
+
+</html>
