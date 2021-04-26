@@ -28,7 +28,7 @@
         if(ctext == "안녕" || ctext == "안녕하세요" || ctext == "반가워" || ctext == "넌 누구야?"){
             bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕하세요. 저는 채팅해조 입니다. " + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
-        } else if(ctext == "갈게" || ctext == "나갈게" || ctext == "바이" || ctext == "ㅃㅇ" || ctext == "ㅂㅇ" || ctext == "ㅂㅂ" || ctext == "") {
+        } else if(ctext == "갈게" || ctext == "나갈게" || ctext == "바이" || ctext == "ㅃㅇ" || ctext == "ㅂㅇ" || ctext == "ㅂㅂ" || ctext == "간다") {
             bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕히가세요. " + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
         } else {
@@ -42,7 +42,7 @@
 
 
     <style>
-        .chatheader {
+        .chatTop {
         position:fixed;
         left:0;
         top:0;
@@ -52,7 +52,7 @@
         color:#FFF;
         text-align:center;
         }
-        .chatfooter {
+        .chatBottom {
         position:fixed;
         left:0;
         bottom:0;
@@ -68,7 +68,7 @@
 
 <body style="height:100%;background-color:#F2F2F2;">
 
-<div class="chatheader">
+<div class="chatTop">
     <table width="100%">
         <tr>
             <td width="50%", align="left">상명대학교 채팅해조</td>
@@ -79,7 +79,7 @@
     </table>
 </div>
 <div style="height:100vh;margin:60px 0;background-color:#F2F2F2;" id="chatbox" ></div>
-<div class="chatfooter">
+<div class="chatBottom">
     <table width="100%">
         <tr>
             <td width="85%", align="left">
