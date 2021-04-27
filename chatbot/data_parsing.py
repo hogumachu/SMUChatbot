@@ -1,5 +1,3 @@
-
-import urllib3
 import urllib.request
 import urllib.parse
 from bs4 import BeautifulSoup
@@ -9,6 +7,15 @@ html = urllib.request.urlopen(url).read()
 soup = BeautifulSoup(html, 'html.parser')
 
 pkg_list=soup.findAll("ul", "list4 staff")
-for i in pkg_list:
-    email = i.findAll('a')
-    print ("email :",str(email)[str(email).find('href="mailto:')+13:str(title).find('">')])
+p = str(pkg_list).split('\t')
+
+for l in p:
+    if "mailto" in l:
+        k = l.split('">')
+        print("email : "+k[0][16:]+"\n")
+    elif "소속 :" in l:
+        print(l)
+    elif "전화 :" in l:
+        print(l)
+    elif "위치 :" in l:
+        print(l+"\n")
