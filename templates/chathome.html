@@ -31,6 +31,10 @@
         } else if(ctext == "갈게" || ctext == "나갈게" || ctext == "바이" || ctext == "ㅃㅇ" || ctext == "ㅂㅇ" || ctext == "ㅂㅂ" || ctext == "간다") {
             bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕히가세요. " + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
+        } else if(ctext == '교수님 검색') {
+
+            // TODO : connecting data_parsing.py
+
         } else {
             bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "무슨 말인지 모르겠어요." + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;

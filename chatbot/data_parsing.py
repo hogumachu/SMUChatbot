@@ -1,21 +1,25 @@
 import urllib.request
+import requests
 import urllib.parse
 from bs4 import BeautifulSoup
 
-url="https://www.smu.ac.kr/search/search.do?menu=%EA%B5%90%EC%88%98%EA%B2%80%EC%83%89&qt=%ED%95%9C%ED%98%81%EC%88%98"
-html = urllib.request.urlopen(url).read()
-soup = BeautifulSoup(html, 'html.parser')
+def professor(name):
+    readUrl = "https://www.smu.ac.kr/search/search.do?menu=교수검색&qt=" + name
+    url = requests.get(readUrl).text.encode('utf-8')
+    soup = BeautifulSoup(url, 'html.parser')
 
-pkg_list=soup.findAll("ul", "list4 staff")
-p = str(pkg_list).split('\t')
+    pkg_list = soup.findAll("ul", "list4 staff")
+    p = str(pkg_list).split('\t')
+    result = []
+    for l in p:
+        if  "mailto" in l:
+            k = l.split('">')
+            result += "email : " + k[0][16:] + "\n"
+        elif "소속 :" in l:
+            result += l
+        elif "전화 :" in l:
+            result += l
+        elif "위치 :" in l:
+            result += l + '\n'
+    print(''.join(result))
 
-for l in p:
-    if "mailto" in l:
-        k = l.split('">')
-        print("email : "+k[0][16:]+"\n")
-    elif "소속 :" in l:
-        print(l)
-    elif "전화 :" in l:
-        print(l)
-    elif "위치 :" in l:
-        print(l+"\n")
