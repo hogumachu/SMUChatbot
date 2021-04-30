@@ -10,4 +10,4 @@
 |주차|내용|
 |:-------:|:-----:
 |6|Django를 이용한 규칙 기반 채팅 및 화면 구성
-|9|웹 크롤링 + TODO: 동적 데이터 파싱 (selenium 등)
+|9|웹 크롤링 + TODO: Django - HTML (Javascript) Ajax 데이터 교환
