@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <meta charset="UTF-8">
     <title>Chatbot</title>
     {% block styles %}
-    <script>
+    <script type="text/javascript">
     function info() {
         alert('상명대학교 캡스톤디자인 채팅해조입니다.');
     }
@@ -31,9 +32,19 @@
         } else if(ctext == "갈게" || ctext == "나갈게" || ctext == "바이" || ctext == "ㅃㅇ" || ctext == "ㅂㅇ" || ctext == "ㅂㅂ" || ctext == "간다") {
             bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕히가세요. " + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
-        } else if(ctext == '교수님 검색') {
+        } else if(ctext.indexOf('교수님 검색') !== -1) {
+            var pi = ctext.substring(0,3);
+            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + pi + " 교수님 정보입니다. " + "</span> </div>"
+            document.getElementById("chatbox").innerHTML += bottext;
+            $.ajax({
+                    url: '/professor_info/',
+                    data: {'pi':pi},
+                    dataType: 'json',
+                    success: function(data){
+                        $('#chatbox').html(document.getElementById("chatbox").innerHTML += "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + data.pi + "</span> </div>");
+                    }
+            });
 
-            // TODO : connecting data_parsing.py
 
         } else {
             bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "무슨 말인지 모르겠어요." + "</span> </div>"
@@ -90,7 +101,7 @@
                 <input type="text" id="chattext" style="padding:10px 0;width:100%;"onkeyup="onEnter()">
             </td>
             <td width="15%", align="right">
-                <button style="padding:10px 0;width:100%;" onclick="sendAsk()">전송</button>
+                <button id="sendButton" style="padding:10px 0;width:100%;" onclick="sendAsk()">전송</button>
             </td>
         </tr>
     </table>
