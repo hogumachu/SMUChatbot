@@ -3,8 +3,8 @@
 ### 주요 기술
 - Python
 - Django
-- Scrapy
-- ...
+- ML, NLP (Typo correction) 
+- etc
 
 
 |주차|내용|
