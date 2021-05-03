@@ -3,7 +3,7 @@
 ### 주요 기술
 - Python
 - Django
-- ML, NLP (Typo correction) 
+- ML, NLP (띄어쓰기, 오타, 명사 분석 등)
 - etc
 
 
