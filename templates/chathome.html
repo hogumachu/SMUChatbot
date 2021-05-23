@@ -23,32 +23,48 @@
             return false;
         }
 
-        addtext = "<div style='margin:15px 0;text-align:right;'><span style='background-color:#A9D0F5;padding:5px 8px;border-radius:8px;'>" + ctext + "</span> </div>"
+        addtext = "<div style='margin:30px 10px;text-align:right;'><span style='background-color:#A9D0F5;padding:6px 13px;border-radius:8px;'>" + ctext + "</span> </div>"
         document.getElementById("chatbox").innerHTML += addtext;
+        var data = ctext;
+        $.ajax({
+                    url: '/get_info/',
+                    data: {'data':data},
+                    dataType: 'json',
+                    success: function(data){
+                        $('#chatbox').html(document.getElementById("chatbox").innerHTML += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + data.data + "</span> </div>");
+                    }
+        });
 
+        document.getElementById("chattext").value="";
+
+
+
+
+
+
+
+/*
         if(ctext == "안녕" || ctext == "안녕하세요" || ctext == "반가워" || ctext == "넌 누구야?"){
-            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕하세요. 저는 채팅해조 입니다. " + "</span> </div>"
+            bottext = "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + "안녕하세요. 저는 채팅해조 입니다. " + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
         } else if(ctext == "갈게" || ctext == "나갈게" || ctext == "바이" || ctext == "ㅃㅇ" || ctext == "ㅂㅇ" || ctext == "ㅂㅂ" || ctext == "간다") {
-            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "안녕히가세요. " + "</span> </div>"
+            bottext = "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + "안녕히가세요. " + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
         } else if(ctext.indexOf('교수') !== -1) {
             var data = ctext.substring(0,3);
-            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + data + " 교수님 정보입니다. " + "</span> </div>"
+            bottext = "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + data + " 교수님 정보입니다. " + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
             $.ajax({
                     url: '/professor_info/',
                     data: {'data':data},
                     dataType: 'json',
                     success: function(data){
-                        $('#chatbox').html(document.getElementById("chatbox").innerHTML += "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + data.data + "</span> </div>");
+                        $('#chatbox').html(document.getElementById("chatbox").innerHTML += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + data.data + "</span> </div>");
                     }
             });
-
-
         } else if(ctext.indexOf('학과') !== -1) {
             var data = ctext;
-            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'> 학과 정보입니다. </span> </div>"
+            bottext = "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'> 학과 정보입니다. </span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
             $.ajax({
                     url: '/office_info/',
@@ -59,16 +75,26 @@
                     }
             });
         } else {
-            bottext = "<div style='margin:15px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:5px 8px;border-radius:8px;'>" + "무슨 말인지 모르겠어요." + "</span> </div>"
+            bottext = "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + "무슨 말인지 모르겠어요." + "</span> </div>"
             document.getElementById("chatbox").innerHTML += bottext;
         }
         document.getElementById("chattext").value="";
+*/
+
+
+
+
+
+
     }
     </script>
 
 
 
     <style>
+        #chatbox {
+        font-size:20px;
+        }
         .chatTop {
         position:fixed;
         left:0;
