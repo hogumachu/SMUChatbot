@@ -383,7 +383,7 @@ def date_to_event(readDate):
         resultStr += d.event1 +'\n'
         resultStr += d.event2 +'\n'
         resultStr += d.event3+'\n'
-    print("date to event : "+ resultStr[0])
+    print("date to event : "+ readDate[0])
     if len(resultStr) < 3:
         return '일정이 없습니다'
     return resultStr
