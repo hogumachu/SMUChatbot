@@ -1,10 +1,12 @@
-import json
 from django.shortcuts import render
 import requests
 from bs4 import BeautifulSoup
 from django.http import JsonResponse
 from .models import Datetoevent, Eventtodate, Officeinfo
-from django.http import HttpResponse
+from konlpy.tag import Mecab
+from datetime import date, timedelta
+
+mecab = Mecab()
 # Create your views here.
 
 def home(request):
@@ -14,20 +16,195 @@ def home(request):
 def get_info(request):
     text = request.GET['data']
     print(text)
-    data = professor(text)
+
+    data = select_function(text)
     print(data)
     context = {'data':data}
-    print(date_to_event(text))
-    print(event_to_date(convert_event(text)))
-    print(office_info(convert_office(text)))
-    print(convert_office(text))
+
     return JsonResponse(context)
 
+def select_function(text):
+    dict_entity = {
+        'date': ['1학기', '2학기', '하계', '동계', '오늘', '내일', '모레', '다음주', '다음 주' '이번학기', '다음 학기', '이번 학기'],
+        'proffessor_name': [],
+        'major': [],
+        'info': ['이메일', '위치', '전공', '연락처', '학과', ],
+        'eventinfo': ['기말고사', '학식', '중간고사', '중간', '기말', '방학', '과사', '시험'],
+        'purpose': ['날짜', '교수', '사무실', '학사'],
+    }
+
+    get_data_list = text
+    morpphed_text = mecab.pos(get_data_list)
+    tagged_text = ''
+    dt = ''
+    dt_year = ''
+    pattern = dict()
+    for index in range(0, len(morpphed_text)):
+        if (morpphed_text[index][1] == 'NNBC'):
+            if (index - 1 >= 0):
+                if (morpphed_text[index - 1][1] == 'SN'):
+                    if (morpphed_text[index][0] == '일'):
+                        dt += morpphed_text[index - 1][0] + morpphed_text[index][0]
+                    elif (morpphed_text[index][0] == '년'):
+                        dt_year += morpphed_text[index - 1][0] + morpphed_text[index][0]
+                    else:
+                        dt += morpphed_text[index - 1][0] + morpphed_text[index][0] + " "
+        if (morpphed_text[index][1] in ['NNG', 'MAG', 'NNP', 'NP', 'SL'] and len(morpphed_text[index][0]) > 1):
+            if morpphed_text[index][0] == '교수':
+                pattern['proffessor_name'] = morpphed_text[index - 1][0]
+                tagged_text = morpphed_text[index][0]
+                break
+            elif morpphed_text[index][0] == '학기':
+                feature_value = morpphed_text[index][1]
+                tagged_text += feature_value + " " + morpphed_text[index - 1][0] + morpphed_text[index][0] + ' '
+            else:
+                feature_value = morpphed_text[index][1]
+                tagged_text += feature_value + " " + morpphed_text[index][0] + ' '
+    if dt != '':
+        pattern['date'] = [dt]
+    if pattern.get('date') != None:
+        pattern['purpose'] = ['날짜']
+
+    for word in tagged_text.split(' '):
+        entity = list(filter(lambda key: word in dict_entity[key], list(dict_entity.keys())))
+        if (len(entity) > 0):
+            pattern[entity[0]] = [word]
+    if dt != '':
+        pattern['date'] = [dt]
+    if pattern.get('date') != None and pattern.get('purpose') == None:
+        pattern['purpose'] = ['날짜']
+
+    df = pattern
+
+    if str(df).find('purpose') == -1:
+        for text in get_data_list.split(' '):
+            ce = convert_event(text)
+            co = convert_office(text)
+            if len(ce) > 3:
+                df['info'] = convert_event(text)
+                df['purpose'] = '학사'
+                break
+            if len(co) > 3 and co != text:
+                df['eventinfo'] = convert_office(text)
+                df['purpose'] = '사무실'
+                break
+            if text == '안녕' or text == '반가워' or text == 'ㅎㅇ' or text == '안녕하세요' or text =='반갑습니다':
+                return '안녕하세요! 저는 채팅해조 챗봇입니다. 만나서 반가워요'
 
 
+    for i in df:
+        print(i)
+        print(df[i])
+
+    # df[key] == 'value' 로 변경하기
+
+    if str(df['purpose']).find('날짜') != -1:
+        if str(df).find('eventinfo') != -1:
+            return event_to_date(convert_event(df['eventinfo'][0]))
+        elif str(df['date']).find('오늘') != -1:
+            return date_to_event(str(date.today().strftime('%-m월 %-d일')))
+        elif str(df['date']).find('내일') != -1:
+            return date_to_event(str((date.today() + timedelta(1)).strftime('%-m월 %-d일')))
+        elif str(df['date']).find('모레') != -1:
+            return date_to_event(str((date.today() + timedelta(1)).strftime('%-m월 %-d일')))
+        elif str(df['date']).find('다음 주') != -1 or str(df['date']).find('다음주') != -1:
+            return date_to_event(str((date.today() + timedelta(7)).strftime('%-m월 %-d일')))
+        else:
+            return date_to_event(df['date'])
+    elif str(df['purpose']).find('교수') != -1:
+        if len(professor(df['proffessor_name'])) < 10:
+            return '교수님 정보가 없습니다'
+        else:
+            #print(df['proffessor_name'][0] + " 교수님 정보입니다 !")
+            return professor(df['proffessor_name'])
+    elif str(df['purpose']).find('사무실') != -1:
+        print("Here i am")
+        return office_info(df['eventinfo'])
+    elif str(df['purpose']).find('학사') != -1:
+        print("convert_event :  " + convert_event(df['info']))
+        print("not convert_event " + (df['info']))
+        if len(df['info']) > len(convert_event(df['info'])):
+            return event_to_date(df['info'])
+        else:
+            return event_to_date(convert_event(df['info']))
+
+    else:
+        return '무슨 이야기인지 모르겠어요'
 
 def convert_event(eventString):
-    return ""
+    year_str = ""
+    date_str = ""
+    event_str = ""
+    if eventString.find('2020') != -1:
+        year_str = '2020학년도 '
+    elif eventString.find('2021') != -1:
+        year_str = '2021학년도'
+    elif eventString in ['1학기', '이번 학기']:
+        date_str = '제1학기 '
+    elif eventString in ['2학기', '다음 학기']:
+        date_str = '제2학기 '
+    elif eventString in ['중간고사', '중간 고사', '중간']:
+        event_str = '중간고사 기간'
+    elif eventString in ['기말고사', '기말 고사', '기말']:
+        event_str = '기말고사 기간'
+    elif eventString.find('학위') != -1:
+        event_str = '학위수여식'
+    elif eventString.find('전기') != -1:
+        date_str = '전기 '
+    elif eventString.find('후기') != -1:
+        date_str = '후기 '
+    elif eventString.find('동계') != -1:
+        date_str = '동계 '
+    elif eventString.find('하계') != -1:
+        date_str = '하계 '
+    elif eventString.find('등록') != -1:
+        event_str = '등록기간 '
+    elif eventString.find('계절') != -1:
+        if date_str != '동계 ':
+            if year_str == "":
+                year_str = '2021학년도 '
+                date_str = '하계 '
+            else:
+                date_str = '하계 '
+        elif year_str == "":
+            year_str = '2021학년도 '
+        event_str = '계절수업'
+        return year_str + date_str + event_str
+    elif eventString.find('방학') != -1:
+        event_str = '방학'
+    elif eventString.find('개강') != -1:
+        event_str = '개강'
+    elif eventString.find('수강') != -1:
+        event_str = '수강신청 기간 <재학생>' # 신입생 편입생 그리고 1차 2차 수강 신청도 고려
+    elif eventString.find('평가') != -1:
+        event_str = '강의평가 기간'
+        if date_str == "":
+            date_str = '기말 '
+        elif date_str == "전기":
+            date_str = '중간'
+        elif date_str == '후기':
+            date_str = '기말'
+    elif eventString.find('등록') != -1:
+        event_str = '등록기간'
+    elif eventString.find('보강') != -1:
+        event_str = '보강 및 자율학습 주간'
+    elif eventString.find('성적') != -1:
+        event_str = '성적확인, 이의신청 및 정정기간'
+    elif eventString.find('정정') != -1:
+        event_str = '수강신청 정정 및 취소 기간'
+    elif eventString.find('장바구니') != -1:
+        event_str = '장바구니 수강신청 기간 <재학생>' # 신입생 편입생
+    elif eventString.find('개교기념일') != -1:
+        return '개교기념일'
+    elif eventString.find('입학식') != -1:
+        return '입학식(서울)'
+    if year_str == "":
+        year_str = "2021학년도 "
+    if date_str == "":
+        date_str = "제1학기 "
+    if event_str == "":
+        return ""
+    return year_str + date_str + event_str
 
 def convert_date(dateString):
     return ""
@@ -123,7 +300,7 @@ def convert_office(name):
         return '캠퍼스타운사업단'
     elif '커뮤' in name:
         return '커뮤니케이션팀'
-    elif '컴과' in name or '컴퓨터' in name or '컴터' in name or '컴공' in name:
+    elif '컴과' in name or '컴퓨터' in name or '컴터' in name or '컴공' in name or '컴퓨터과학과' in name:
         return '컴퓨터과학과'
     elif '핀테크' in name:
         return '핀테크전공'
@@ -192,18 +369,23 @@ def convert_office(name):
 
 def event_to_date(readEvent):
     etd = Eventtodate.objects.filter(event= readEvent)
+    #etd = Eventtodate.objects.all()
     resultStr = ''
     for e in etd:
-        resultStr += e.event + e.eventdate +'\n'
+        resultStr += e.event +" "+ e.eventdate +'\n'
     return resultStr
 
 def date_to_event(readDate):
-    dte = Datetoevent.objects.filter(date= readDate)
+    dte = Datetoevent.objects.filter(date= readDate[0])
+
     resultStr = ''
     for d in dte:
         resultStr += d.event1 +'\n'
         resultStr += d.event2 +'\n'
-        resultStr += d.event3 +'\n'
+        resultStr += d.event3+'\n'
+    print("date to event : "+ resultStr[0])
+    if len(resultStr) < 3:
+        return '일정이 없습니다'
     return resultStr
 
 def office_info(readOfficeName):
@@ -213,7 +395,6 @@ def office_info(readOfficeName):
         resultStr += o.officename+' '+o.officetel+' '+o.officelocation+'\n'
 
     return resultStr
-
 
 def professor(name):
     readUrl = "https://www.smu.ac.kr/search/search.do?menu=교수검색&qt=" + name
@@ -236,22 +417,22 @@ def professor(name):
 
     return str(''.join(result))
 
-def office(name):
-    readUrl = "https://"+name+".smu.ac.kr/"+name+"/intro/office.do"
-    url = requests.get(readUrl).text.encode('utf-8')
-    soup = BeautifulSoup(url, 'html.parser')
+#def office(name):
+#    readUrl = "https://"+name+".smu.ac.kr/"+name+"/intro/office.do"
+#    url = requests.get(readUrl).text.encode('utf-8')
+#    soup = BeautifulSoup(url, 'html.parser')
 
-    pkg_list = soup.findAll("ul", "ul-type01")
-    p = str(pkg_list).split('<li>')
-    result = []
-    for l in p:
-        l = l.replace("</li>", "").replace("</a>", "").replace("</ul>", "").replace("]", "").replace("\t", "").strip()
-        if "ul class" in l:
-            False
-        elif "<" in l:
-            while l.find('<') != -1:
-                l = l.replace(l[l.find('<'):l.find('>') + 1], "")
-            result += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + l + "</span> </div>"
-        else:
-            result += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + l + "</span> </div>"
-    return str(''.join(result))
+#    pkg_list = soup.findAll("ul", "ul-type01")
+#    p = str(pkg_list).split('<li>')
+#    result = []
+#    for l in p:
+#        l = l.replace("</li>", "").replace("</a>", "").replace("</ul>", "").replace("]", "").replace("\t", "").strip()
+#        if "ul class" in l:
+#            False
+#        elif "<" in l:
+#            while l.find('<') != -1:
+#                l = l.replace(l[l.find('<'):l.find('>') + 1], "")
+#            result += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + l + "</span> </div>"
+#        else:
+#            result += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + l + "</span> </div>"
+#    return str(''.join(result))
