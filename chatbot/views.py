@@ -253,7 +253,7 @@ def convert_office(name):
     elif '신문' in name or '방송' in name or '신방' in name:
         return '신문방송국'
     elif '애니' in name:
-        return '애니'
+        return '애니매니션전공'
     elif '역사' in name or '역콘' in name:
         return '역사콘텐츠전공'
     elif '예비군' in name:
@@ -306,8 +306,6 @@ def convert_office(name):
         return '핀테크전공'
     elif '학사' in name or '운영' in name:
         return '학사운영팀'
-    elif '학사' in name or '운영' in name:
-        return '학사운영팀'
     elif '복지' in name and '가족' not in name:
         return '학생복지팀'
     elif '상담' in name and '외국인' not in name and '유학생' not in name and '인권' not in name:
@@ -338,8 +336,6 @@ def convert_office(name):
         return '국제학생지원팀'
     elif '관리' in name and '보건' not in name and '산학' not in name and '스포츠' not in name:
         return '관리팀'
-    elif '보건' in name or '건강' in name and '스포츠' not in name:
-        return '보건건강관리센터'
     elif '보건' in name or '건강' in name and '스포츠' not in name:
         return '보건건강관리센터'
     elif '산학' in name or '협력' in name and '연구' not in name and '관리' not in name:
@@ -416,23 +412,3 @@ def professor(name):
             result += "<div style='margin:30px 0;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + l + "</span> </div>  <br>"
 
     return str(''.join(result))
-
-#def office(name):
-#    readUrl = "https://"+name+".smu.ac.kr/"+name+"/intro/office.do"
-#    url = requests.get(readUrl).text.encode('utf-8')
-#    soup = BeautifulSoup(url, 'html.parser')
-
-#    pkg_list = soup.findAll("ul", "ul-type01")
-#    p = str(pkg_list).split('<li>')
-#    result = []
-#    for l in p:
-#        l = l.replace("</li>", "").replace("</a>", "").replace("</ul>", "").replace("]", "").replace("\t", "").strip()
-#        if "ul class" in l:
-#            False
-#        elif "<" in l:
-#            while l.find('<') != -1:
-#                l = l.replace(l[l.find('<'):l.find('>') + 1], "")
-#            result += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + l + "</span> </div>"
-#        else:
-#            result += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + l + "</span> </div>"
-#    return str(''.join(result))
