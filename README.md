@@ -1,9 +1,9 @@
 # 캡스톤디자인 (채팅해조)
 
-### 주요 기술
+### USE
 - Python
 - Django
-- ML, NLP (띄어쓰기, 오타, 명사 분석 등)
+- ML, NLP (띄어쓰기, 오타, 명사 분석, Pororo(이름(PERSON) 추출) 등)
 - etc
 
 
