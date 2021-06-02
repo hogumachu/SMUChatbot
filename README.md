@@ -1,9 +1,10 @@
-# 캡스톤디자인 (채팅해조)
+# Capstone Design (TEAM ChattingHaeJo)
 
-### 주요 기술
+### USE
 - Python
 - Django
-- ML, NLP (띄어쓰기, 오타, 명사 분석 등)
+- Seq2Seq (User의 Question Text에 대한 Answer 학습)
+- NLP (띄어쓰기, 오타, 명사 분석, 이름 추출 (use Pororo) 등)
 - etc
 
 
