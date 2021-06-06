@@ -13,7 +13,9 @@ class Datetoevent(models.Model):
 
 class Eventtodate(models.Model):
     event = models.CharField(primary_key=True, max_length=50)
-    eventdate = models.CharField(db_column='eventDate', max_length=50, blank=True, null=True)  # Field name made lowercase.
+    eventdate1 = models.CharField(max_length=50, blank=True, null=True)
+    eventdate2 = models.CharField(max_length=50, blank=True, null=True)
+    eventdate3 = models.CharField(max_length=50, blank=True, null=True)
 
     class Meta:
         managed = False
@@ -21,9 +23,9 @@ class Eventtodate(models.Model):
 
 
 class Officeinfo(models.Model):
-    officename = models.CharField(db_column='officeName', primary_key=True, max_length=50)  # Field name made lowercase.
-    officetel = models.CharField(db_column='officeTel', max_length=50, blank=True, null=True)  # Field name made lowercase.
-    officelocation = models.CharField(db_column='officeLocation', max_length=50, blank=True, null=True)  # Field name made lowercase.
+    officename = models.CharField(db_column='officeName', primary_key=True, max_length=50)
+    officetel = models.CharField(db_column='officeTel', max_length=50, blank=True, null=True)
+    officelocation = models.CharField(db_column='officeLocation', max_length=50, blank=True, null=True)
 
     class Meta:
         managed = False

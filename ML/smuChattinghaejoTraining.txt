@@ -1,3 +1,2751 @@
+월요일 에 뭐나와?	cafeteria 월요일
+월요일 에 밥 뭐야?	cafeteria 월요일
+월요일 에 학식이 뭐야?	cafeteria 월요일
+월요일 학식 좀 알려줘	cafeteria 월요일
+월요일 학식 메뉴가 뭐야?	cafeteria 월요일
+월요일 에 학식 메뉴 알려줘	cafeteria 월요일
+월요일 에 메뉴가 뭐야?	cafeteria 월요일
+월요일 밥 뭐나와?	cafeteria 월요일
+월요일 학식 정보 알려줘	cafeteria 월요일
+월요일 학식 모야?	cafeteria 월요일
+월요일 학식 뭐나와?	cafeteria 월요일
+월요일 학식 메뉴 알려줘	cafeteria 월요일
+화요일 에 뭐나와?	cafeteria 화요일
+화요일 에 밥 뭐야?	cafeteria 화요일
+화요일 에 학식이 뭐야?	cafeteria 화요일
+화요일 학식 좀 알려줘	cafeteria 화요일
+화요일 학식 메뉴가 뭐야?	cafeteria 화요일
+화요일 에 학식 메뉴 알려줘	cafeteria 화요일
+화요일 에 메뉴가 뭐야?	cafeteria 화요일
+화요일 밥 뭐나와?	cafeteria 화요일
+화요일 학식 정보 알려줘	cafeteria 화요일
+화요일 학식 모야?	cafeteria 화요일
+화요일 학식 뭐나와?	cafeteria 화요일
+화요일 학식 메뉴 알려줘	cafeteria 화요일
+수요일 에 뭐나와?	cafeteria 수요일
+수요일 에 밥 뭐야?	cafeteria 수요일
+수요일 에 학식이 뭐야?	cafeteria 수요일
+수요일 학식 좀 알려줘	cafeteria 수요일
+수요일 학식 메뉴가 뭐야?	cafeteria 수요일
+수요일 에 학식 메뉴 알려줘	cafeteria 수요일
+수요일 에 메뉴가 뭐야?	cafeteria 수요일
+수요일 밥 뭐나와?	cafeteria 수요일
+수요일 학식 정보 알려줘	cafeteria 수요일
+수요일 학식 모야?	cafeteria 수요일
+수요일 학식 뭐나와?	cafeteria 수요일
+수요일 학식 메뉴 알려줘	cafeteria 수요일
+목요일 에 뭐나와?	cafeteria 목요일
+목요일 에 밥 뭐야?	cafeteria 목요일
+목요일 에 학식이 뭐야?	cafeteria 목요일
+목요일 학식 좀 알려줘	cafeteria 목요일
+목요일 학식 메뉴가 뭐야?	cafeteria 목요일
+목요일 에 학식 메뉴 알려줘	cafeteria 목요일
+목요일 에 메뉴가 뭐야?	cafeteria 목요일
+목요일 밥 뭐나와?	cafeteria 목요일
+목요일 학식 정보 알려줘	cafeteria 목요일
+목요일 학식 모야?	cafeteria 목요일
+목요일 학식 뭐나와?	cafeteria 목요일
+목요일 학식 메뉴 알려줘	cafeteria 목요일
+금요일 에 뭐나와?	cafeteria 금요일
+금요일 에 밥 뭐야?	cafeteria 금요일
+금요일 에 학식이 뭐야?	cafeteria 금요일
+금요일 학식 좀 알려줘	cafeteria 금요일
+금요일 학식 메뉴가 뭐야?	cafeteria 금요일
+금요일 에 학식 메뉴 알려줘	cafeteria 금요일
+금요일 에 메뉴가 뭐야?	cafeteria 금요일
+금요일 밥 뭐나와?	cafeteria 금요일
+금요일 학식 정보 알려줘	cafeteria 금요일
+금요일 학식 모야?	cafeteria 금요일
+금요일 학식 뭐나와?	cafeteria 금요일
+금요일 학식 메뉴 알려줘	cafeteria 금요일
+내일 에 뭐나와?	cafeteria 내일
+내일 에 밥 뭐야?	cafeteria 내일
+내일 에 학식이 뭐야?	cafeteria 내일
+내일 학식 좀 알려줘	cafeteria 내일
+내일 학식 메뉴가 뭐야?	cafeteria 내일
+내일 에 학식 메뉴 알려줘	cafeteria 내일
+내일 에 메뉴가 뭐야?	cafeteria 내일
+내일 밥 뭐나와?	cafeteria 내일
+내일 학식 정보 알려줘	cafeteria 내일
+내일 학식 모야?	cafeteria 내일
+내일 학식 뭐나와?	cafeteria 내일
+내일 학식 메뉴 알려줘	cafeteria 내일
+오늘 에 뭐나와?	cafeteria 오늘
+오늘 에 밥 뭐야?	cafeteria 오늘
+오늘 에 학식이 뭐야?	cafeteria 오늘
+오늘 학식 좀 알려줘	cafeteria 오늘
+오늘 학식 메뉴가 뭐야?	cafeteria 오늘
+오늘 에 학식 메뉴 알려줘	cafeteria 오늘
+오늘 에 메뉴가 뭐야?	cafeteria 오늘
+오늘 밥 뭐나와?	cafeteria 오늘
+오늘 학식 정보 알려줘	cafeteria 오늘
+오늘 학식 모야?	cafeteria 오늘
+오늘 학식 뭐나와?	cafeteria 오늘
+오늘 학식 메뉴 알려줘	cafeteria 오늘
+1월 2일 에 뭐 있어?	date
+1월 2일 에 일정 있어?	date
+1월 2일 뭐 있어?	date
+1월 2일 일정 있어?	date
+1월 2일 행사 있어?	date
+1월 2일 뭐있음?	date
+1월 2일 뭐함?	date
+1월 2일 예정 있어?	date
+1월 2일 일정있음?	date
+1월 2일 뭐있음?	date
+1월 2일 뭐 있나요?	date
+1월 2일 행사 있나요?	date
+12월 3일 에 뭐 있어?	date
+12월 3일 에 일정 있어?	date
+12월 3일 뭐 있어?	date
+12월 3일 일정 있어?	date
+12월 3일 행사 있어?	date
+12월 3일 뭐있음?	date
+12월 3일 뭐함?	date
+12월 3일 예정 있어?	date
+12월 3일 일정있음?	date
+12월 3일 뭐있음?	date
+12월 3일 뭐 있나요?	date
+12월 3일 행사 있나요?	date
+4월 6일 에 뭐 있어?	date
+4월 6일 에 일정 있어?	date
+4월 6일 뭐 있어?	date
+4월 6일 일정 있어?	date
+4월 6일 행사 있어?	date
+4월 6일 뭐있음?	date
+4월 6일 뭐함?	date
+4월 6일 예정 있어?	date
+4월 6일 일정있음?	date
+4월 6일 뭐있음?	date
+4월 6일 뭐 있나요?	date
+4월 6일 행사 있나요?	date
+내일 에 뭐 있어?	date
+내일 에 일정 있어?	date
+내일 뭐 있어?	date
+내일 일정 있어?	date
+내일 행사 있어?	date
+내일 뭐있음?	date
+내일 뭐함?	date
+내일 예정 있어?	date
+내일 일정있음?	date
+내일 뭐있음?	date
+내일 뭐 있나요?	date
+내일 행사 있나요?	date
+오늘 에 뭐 있어?	date
+오늘 에 일정 있어?	date
+오늘 뭐 있어?	date
+오늘 일정 있어?	date
+오늘 행사 있어?	date
+오늘 뭐있음?	date
+오늘 뭐함?	date
+오늘 예정 있어?	date
+오늘 일정있음?	date
+오늘 뭐있음?	date
+오늘 뭐 있나요?	date
+오늘 행사 있나요?	date
+2월 2일 에 뭐 있어?	date
+2월 2일 에 일정 있어?	date
+2월 2일 뭐 있어?	date
+2월 2일 일정 있어?	date
+2월 2일 행사 있어?	date
+2월 2일 뭐있음?	date
+2월 2일 뭐함?	date
+2월 2일 예정 있어?	date
+2월 2일 일정있음?	date
+2월 2일 뭐있음?	date
+2월 2일 뭐 있나요?	date
+2월 2일 행사 있나요?	date
+3월 4일 에 뭐 있어?	date
+3월 4일 에 일정 있어?	date
+3월 4일 뭐 있어?	date
+3월 4일 일정 있어?	date
+3월 4일 행사 있어?	date
+3월 4일 뭐있음?	date
+3월 4일 뭐함?	date
+3월 4일 예정 있어?	date
+3월 4일 일정있음?	date
+3월 4일 뭐있음?	date
+3월 4일 뭐 있나요?	date
+3월 4일 행사 있나요?	date
+5월 6일 에 뭐 있어?	date
+5월 6일 에 일정 있어?	date
+5월 6일 뭐 있어?	date
+5월 6일 일정 있어?	date
+5월 6일 행사 있어?	date
+5월 6일 뭐있음?	date
+5월 6일 뭐함?	date
+5월 6일 예정 있어?	date
+5월 6일 일정있음?	date
+5월 6일 뭐있음?	date
+5월 6일 뭐 있나요?	date
+5월 6일 행사 있나요?	date
+6월 6일 에 뭐 있어?	date
+6월 6일 에 일정 있어?	date
+6월 6일 뭐 있어?	date
+6월 6일 일정 있어?	date
+6월 6일 행사 있어?	date
+6월 6일 뭐있음?	date
+6월 6일 뭐함?	date
+6월 6일 예정 있어?	date
+6월 6일 일정있음?	date
+6월 6일 뭐있음?	date
+6월 6일 뭐 있나요?	date
+6월 6일 행사 있나요?	date
+11월 11일 에 뭐 있어?	date
+11월 11일 에 일정 있어?	date
+11월 11일 뭐 있어?	date
+11월 11일 일정 있어?	date
+11월 11일 행사 있어?	date
+11월 11일 뭐있음?	date
+11월 11일 뭐함?	date
+11월 11일 예정 있어?	date
+11월 11일 일정있음?	date
+11월 11일 뭐있음?	date
+11월 11일 뭐 있나요?	date
+11월 11일 행사 있나요?	date
+10월 10일 에 뭐 있어?	date
+10월 10일 에 일정 있어?	date
+10월 10일 뭐 있어?	date
+10월 10일 일정 있어?	date
+10월 10일 행사 있어?	date
+10월 10일 뭐있음?	date
+10월 10일 뭐함?	date
+10월 10일 예정 있어?	date
+10월 10일 일정있음?	date
+10월 10일 뭐있음?	date
+10월 10일 뭐 있나요?	date
+10월 10일 행사 있나요?	date
+1월2일 에 뭐 있어?	date
+1월2일 에 일정 있어?	date
+1월2일 뭐 있어?	date
+1월2일 일정 있어?	date
+1월2일 행사 있어?	date
+1월2일 뭐있음?	date
+1월2일 뭐함?	date
+1월2일 예정 있어?	date
+1월2일 일정있음?	date
+1월2일 뭐있음?	date
+1월2일 뭐 있나요?	date
+1월2일 행사 있나요?	date
+12월3일 에 뭐 있어?	date
+12월3일 에 일정 있어?	date
+12월3일 뭐 있어?	date
+12월3일 일정 있어?	date
+12월3일 행사 있어?	date
+12월3일 뭐있음?	date
+12월3일 뭐함?	date
+12월3일 예정 있어?	date
+12월3일 일정있음?	date
+12월3일 뭐있음?	date
+12월3일 뭐 있나요?	date
+12월3일 행사 있나요?	date
+2월4일 에 뭐 있어?	date
+2월4일 에 일정 있어?	date
+2월4일 뭐 있어?	date
+2월4일 일정 있어?	date
+2월4일 행사 있어?	date
+2월4일 뭐있음?	date
+2월4일 뭐함?	date
+2월4일 예정 있어?	date
+2월4일 일정있음?	date
+2월4일 뭐있음?	date
+2월4일 뭐 있나요?	date
+2월4일 행사 있나요?	date
+학위 수여식 이 언제야?	event now now 학위수여식
+1학기 학위 수여식 이 언제야?	event now 1학기 학위수여식
+2학기 학위 수여식 이 언제야?	event now 2학기 학위수여식
+학위 수여식 언제임?	event now now 학위수여식
+1학기 학위 수여식 언제임?	event now 1학기 학위수여식
+2학기 학위 수여식 언제임?	event now 2학기 학위수여식
+학위 수여식 언제해?	event now now 학위수여식
+1학기 학위 수여식 언제해?	event now 1학기 학위수여식
+2학기 학위 수여식 언제해?	event now 2학기 학위수여식
+학위 수여식 언제봄?	event now now 학위수여식
+1학기 학위 수여식 언제봄?	event now 1학기 학위수여식
+2학기 학위 수여식 언제봄?	event now 2학기 학위수여식
+학위 수여식 언제보나요 ?	event now now 학위수여식
+1학기 학위 수여식 언제보나요 ?	event now 1학기 학위수여식
+2학기 학위 수여식 언제보나요 ?	event now 2학기 학위수여식
+학위 수여식 언제 해요?	event now now 학위수여식
+1학기 학위 수여식 언제 해요?	event now 1학기 학위수여식
+2학기 학위 수여식 언제 해요?	event now 2학기 학위수여식
+학위 수여식 언젠가요 ?	event now now 학위수여식
+1학기 학위 수여식 언젠가요 ?	event now 1학기 학위수여식
+2학기 학위 수여식 언젠가요 ?	event now 2학기 학위수여식
+학위 수여식 며칠임?	event now now 학위수여식
+1학기 학위 수여식 며칠임?	event now 1학기 학위수여식
+2학기 학위 수여식 며칠임?	event now 2학기 학위수여식
+학위 수여식 언제?	event now now 학위수여식
+1학기 학위 수여식 언제?	event now 1학기 학위수여식
+2학기 학위 수여식 언제?	event now 2학기 학위수여식
+학위 수여식 언제	event now now 학위수여식
+1학기 학위 수여식 언제	event now 1학기 학위수여식
+2학기 학위 수여식 언제	event now 2학기 학위수여식
+학위 수여식 날짜가 언제인가요?	event now now 학위수여식
+1학기 학위 수여식 날짜가 언제인가요?	event now 1학기 학위수여식
+2학기 학위 수여식 날짜가 언제인가요?	event now 2학기 학위수여식
+학위 수여식 날짜가 언제야?	event now now 학위수여식
+1학기 학위 수여식 날짜가 언제야?	event now 1학기 학위수여식
+2학기 학위 수여식 날짜가 언제야?	event now 2학기 학위수여식
+학위 수여식 언제죠?	event now now 학위수여식
+1학기 학위 수여식 언제죠?	event now 1학기 학위수여식
+2학기 학위 수여식 언제죠?	event now 2학기 학위수여식
+학위 이 언제야?	event now now 학위수여식
+1학기 학위 이 언제야?	event now 1학기 학위수여식
+2학기 학위 이 언제야?	event now 2학기 학위수여식
+학위 언제임?	event now now 학위수여식
+1학기 학위 언제임?	event now 1학기 학위수여식
+2학기 학위 언제임?	event now 2학기 학위수여식
+학위 언제해?	event now now 학위수여식
+1학기 학위 언제해?	event now 1학기 학위수여식
+2학기 학위 언제해?	event now 2학기 학위수여식
+학위 언제봄?	event now now 학위수여식
+1학기 학위 언제봄?	event now 1학기 학위수여식
+2학기 학위 언제봄?	event now 2학기 학위수여식
+학위 언제보나요 ?	event now now 학위수여식
+1학기 학위 언제보나요 ?	event now 1학기 학위수여식
+2학기 학위 언제보나요 ?	event now 2학기 학위수여식
+학위 언제 해요?	event now now 학위수여식
+1학기 학위 언제 해요?	event now 1학기 학위수여식
+2학기 학위 언제 해요?	event now 2학기 학위수여식
+학위 언젠가요 ?	event now now 학위수여식
+1학기 학위 언젠가요 ?	event now 1학기 학위수여식
+2학기 학위 언젠가요 ?	event now 2학기 학위수여식
+학위 며칠임?	event now now 학위수여식
+1학기 학위 며칠임?	event now 1학기 학위수여식
+2학기 학위 며칠임?	event now 2학기 학위수여식
+학위 언제?	event now now 학위수여식
+1학기 학위 언제?	event now 1학기 학위수여식
+2학기 학위 언제?	event now 2학기 학위수여식
+학위 언제	event now now 학위수여식
+1학기 학위 언제	event now 1학기 학위수여식
+2학기 학위 언제	event now 2학기 학위수여식
+학위 날짜가 언제인가요?	event now now 학위수여식
+1학기 학위 날짜가 언제인가요?	event now 1학기 학위수여식
+2학기 학위 날짜가 언제인가요?	event now 2학기 학위수여식
+학위 날짜가 언제야?	event now now 학위수여식
+1학기 학위 날짜가 언제야?	event now 1학기 학위수여식
+2학기 학위 날짜가 언제야?	event now 2학기 학위수여식
+학위 언제죠?	event now now 학위수여식
+1학기 학위 언제죠?	event now 1학기 학위수여식
+2학기 학위 언제죠?	event now 2학기 학위수여식
+학위 수여 이 언제야?	event now now 학위수여식
+1학기 학위 수여 이 언제야?	event now 1학기 학위수여식
+2학기 학위 수여 이 언제야?	event now 2학기 학위수여식
+학위 수여 언제임?	event now now 학위수여식
+1학기 학위 수여 언제임?	event now 1학기 학위수여식
+2학기 학위 수여 언제임?	event now 2학기 학위수여식
+학위 수여 언제해?	event now now 학위수여식
+1학기 학위 수여 언제해?	event now 1학기 학위수여식
+2학기 학위 수여 언제해?	event now 2학기 학위수여식
+학위 수여 언제봄?	event now now 학위수여식
+1학기 학위 수여 언제봄?	event now 1학기 학위수여식
+2학기 학위 수여 언제봄?	event now 2학기 학위수여식
+학위 수여 언제보나요 ?	event now now 학위수여식
+1학기 학위 수여 언제보나요 ?	event now 1학기 학위수여식
+2학기 학위 수여 언제보나요 ?	event now 2학기 학위수여식
+학위 수여 언제 해요?	event now now 학위수여식
+1학기 학위 수여 언제 해요?	event now 1학기 학위수여식
+2학기 학위 수여 언제 해요?	event now 2학기 학위수여식
+학위 수여 언젠가요 ?	event now now 학위수여식
+1학기 학위 수여 언젠가요 ?	event now 1학기 학위수여식
+2학기 학위 수여 언젠가요 ?	event now 2학기 학위수여식
+학위 수여 며칠임?	event now now 학위수여식
+1학기 학위 수여 며칠임?	event now 1학기 학위수여식
+2학기 학위 수여 며칠임?	event now 2학기 학위수여식
+학위 수여 언제?	event now now 학위수여식
+1학기 학위 수여 언제?	event now 1학기 학위수여식
+2학기 학위 수여 언제?	event now 2학기 학위수여식
+학위 수여 언제	event now now 학위수여식
+1학기 학위 수여 언제	event now 1학기 학위수여식
+2학기 학위 수여 언제	event now 2학기 학위수여식
+학위 수여 날짜가 언제인가요?	event now now 학위수여식
+1학기 학위 수여 날짜가 언제인가요?	event now 1학기 학위수여식
+2학기 학위 수여 날짜가 언제인가요?	event now 2학기 학위수여식
+학위 수여 날짜가 언제야?	event now now 학위수여식
+1학기 학위 수여 날짜가 언제야?	event now 1학기 학위수여식
+2학기 학위 수여 날짜가 언제야?	event now 2학기 학위수여식
+학위 수여 언제죠?	event now now 학위수여식
+1학기 학위 수여 언제죠?	event now 1학기 학위수여식
+2학기 학위 수여 언제죠?	event now 2학기 학위수여식
+개강 이 언제야?	event now now 개강
+1학기 개강 이 언제야?	event now 1학기 개강
+2학기 개강 이 언제야?	event now 2학기 개강
+개강 언제임?	event now now 개강
+1학기 개강 언제임?	event now 1학기 개강
+2학기 개강 언제임?	event now 2학기 개강
+개강 언제해?	event now now 개강
+1학기 개강 언제해?	event now 1학기 개강
+2학기 개강 언제해?	event now 2학기 개강
+개강 언제봄?	event now now 개강
+1학기 개강 언제봄?	event now 1학기 개강
+2학기 개강 언제봄?	event now 2학기 개강
+개강 언제보나요 ?	event now now 개강
+1학기 개강 언제보나요 ?	event now 1학기 개강
+2학기 개강 언제보나요 ?	event now 2학기 개강
+개강 언제 해요?	event now now 개강
+1학기 개강 언제 해요?	event now 1학기 개강
+2학기 개강 언제 해요?	event now 2학기 개강
+개강 언젠가요 ?	event now now 개강
+1학기 개강 언젠가요 ?	event now 1학기 개강
+2학기 개강 언젠가요 ?	event now 2학기 개강
+개강 며칠임?	event now now 개강
+1학기 개강 며칠임?	event now 1학기 개강
+2학기 개강 며칠임?	event now 2학기 개강
+개강 언제?	event now now 개강
+1학기 개강 언제?	event now 1학기 개강
+2학기 개강 언제?	event now 2학기 개강
+개강 언제	event now now 개강
+1학기 개강 언제	event now 1학기 개강
+2학기 개강 언제	event now 2학기 개강
+개강 날짜가 언제인가요?	event now now 개강
+1학기 개강 날짜가 언제인가요?	event now 1학기 개강
+2학기 개강 날짜가 언제인가요?	event now 2학기 개강
+개강 날짜가 언제야?	event now now 개강
+1학기 개강 날짜가 언제야?	event now 1학기 개강
+2학기 개강 날짜가 언제야?	event now 2학기 개강
+개강 언제죠?	event now now 개강
+1학기 개강 언제죠?	event now 1학기 개강
+2학기 개강 언제죠?	event now 2학기 개강
+교차 수강신청 기간 이 언제야?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 이 언제야?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 이 언제야?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제임?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제임?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제임?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제해?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제해?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제해?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제봄?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제봄?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제봄?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제보나요 ?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제보나요 ?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제보나요 ?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제 해요?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제 해요?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제 해요?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언젠가요 ?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언젠가요 ?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언젠가요 ?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 며칠임?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 며칠임?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 며칠임?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 날짜가 언제인가요?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 날짜가 언제인가요?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 날짜가 언제인가요?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 날짜가 언제야?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 날짜가 언제야?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 날짜가 언제야?	event now 2학기 교차 수강신청 기간
+교차 수강신청 기간 언제죠?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 기간 언제죠?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 기간 언제죠?	event now 2학기 교차 수강신청 기간
+교차 수강신청 이 언제야?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 이 언제야?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 이 언제야?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제임?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제임?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제임?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제해?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제해?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제해?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제봄?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제봄?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제봄?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제보나요 ?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제보나요 ?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제보나요 ?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제 해요?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제 해요?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제 해요?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언젠가요 ?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언젠가요 ?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언젠가요 ?	event now 2학기 교차 수강신청 기간
+교차 수강신청 며칠임?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 며칠임?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 며칠임?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제	event now 2학기 교차 수강신청 기간
+교차 수강신청 날짜가 언제인가요?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 날짜가 언제인가요?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 날짜가 언제인가요?	event now 2학기 교차 수강신청 기간
+교차 수강신청 날짜가 언제야?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 날짜가 언제야?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 날짜가 언제야?	event now 2학기 교차 수강신청 기간
+교차 수강신청 언제죠?	event now now 교차 수강신청 기간
+1학기 교차 수강신청 언제죠?	event now 1학기 교차 수강신청 기간
+2학기 교차 수강신청 언제죠?	event now 2학기 교차 수강신청 기간
+교차 신청 이 언제야?	event now now 교차 수강신청 기간
+1학기 교차 신청 이 언제야?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 이 언제야?	event now 2학기 교차 수강신청 기간
+교차 신청 언제임?	event now now 교차 수강신청 기간
+1학기 교차 신청 언제임?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제임?	event now 2학기 교차 수강신청 기간
+교차 신청 언제해?	event now now 교차 수강신청 기간
+1학기 교차 신청 언제해?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제해?	event now 2학기 교차 수강신청 기간
+교차 신청 언제봄?	event now now 교차 수강신청 기간
+1학기 교차 신청 언제봄?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제봄?	event now 2학기 교차 수강신청 기간
+교차 신청 언제보나요 ?	event now now 교차 수강신청 기간
+1학기 교차 신청 언제보나요 ?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제보나요 ?	event now 2학기 교차 수강신청 기간
+교차 신청 언제 해요?	event now now 교차 수강신청 기간
+1학기 교차 신청 언제 해요?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제 해요?	event now 2학기 교차 수강신청 기간
+교차 신청 언젠가요 ?	event now now 교차 수강신청 기간
+1학기 교차 신청 언젠가요 ?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언젠가요 ?	event now 2학기 교차 수강신청 기간
+교차 신청 며칠임?	event now now 교차 수강신청 기간
+1학기 교차 신청 며칠임?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 며칠임?	event now 2학기 교차 수강신청 기간
+교차 신청 언제?	event now now 교차 수강신청 기간
+1학기 교차 신청 언제?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제?	event now 2학기 교차 수강신청 기간
+교차 신청 언제	event now now 교차 수강신청 기간
+1학기 교차 신청 언제	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제	event now 2학기 교차 수강신청 기간
+교차 신청 날짜가 언제인가요?	event now now 교차 수강신청 기간
+1학기 교차 신청 날짜가 언제인가요?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 날짜가 언제인가요?	event now 2학기 교차 수강신청 기간
+교차 신청 날짜가 언제야?	event now now 교차 수강신청 기간
+1학기 교차 신청 날짜가 언제야?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 날짜가 언제야?	event now 2학기 교차 수강신청 기간
+교차 신청 언제죠?	event now now 교차 수강신청 기간
+1학기 교차 신청 언제죠?	event now 1학기 교차 수강신청 기간
+2학기 교차 신청 언제죠?	event now 2학기 교차 수강신청 기간
+기말 강의평가 기간 이 언제야?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 이 언제야?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 이 언제야?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제임?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제임?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제임?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제해?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제해?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제해?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제봄?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제봄?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제봄?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제보나요 ?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제보나요 ?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제보나요 ?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제 해요?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제 해요?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제 해요?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언젠가요 ?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언젠가요 ?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언젠가요 ?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 며칠임?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 며칠임?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 며칠임?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 날짜가 언제인가요?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 날짜가 언제인가요?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 날짜가 언제인가요?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 날짜가 언제야?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 날짜가 언제야?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 날짜가 언제야?	event now 2학기 기말 강의평가 기간
+기말 강의평가 기간 언제죠?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 기간 언제죠?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 기간 언제죠?	event now 2학기 기말 강의평가 기간
+기말 강의평가 이 언제야?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 이 언제야?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 이 언제야?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제임?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제임?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제임?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제해?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제해?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제해?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제봄?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제봄?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제봄?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제보나요 ?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제보나요 ?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제보나요 ?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제 해요?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제 해요?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제 해요?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언젠가요 ?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언젠가요 ?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언젠가요 ?	event now 2학기 기말 강의평가 기간
+기말 강의평가 며칠임?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 며칠임?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 며칠임?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제	event now 2학기 기말 강의평가 기간
+기말 강의평가 날짜가 언제인가요?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 날짜가 언제인가요?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 날짜가 언제인가요?	event now 2학기 기말 강의평가 기간
+기말 강의평가 날짜가 언제야?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 날짜가 언제야?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 날짜가 언제야?	event now 2학기 기말 강의평가 기간
+기말 강의평가 언제죠?	event now now 기말 강의평가 기간
+1학기 기말 강의평가 언제죠?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의평가 언제죠?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 이 언제야?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 이 언제야?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 이 언제야?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제임?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제임?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제임?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제해?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제해?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제해?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제봄?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제봄?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제봄?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제보나요 ?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제보나요 ?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제보나요 ?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제 해요?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제 해요?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제 해요?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언젠가요 ?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언젠가요 ?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언젠가요 ?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 며칠임?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 며칠임?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 며칠임?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제	event now 2학기 기말 강의평가 기간
+기말 강의 평가 날짜가 언제인가요?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 날짜가 언제인가요?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 날짜가 언제인가요?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 날짜가 언제야?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 날짜가 언제야?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 날짜가 언제야?	event now 2학기 기말 강의평가 기간
+기말 강의 평가 언제죠?	event now now 기말 강의평가 기간
+1학기 기말 강의 평가 언제죠?	event now 1학기 기말 강의평가 기간
+2학기 기말 강의 평가 언제죠?	event now 2학기 기말 강의평가 기간
+기말고사 기간 이 언제야?	event now now 기말고사 기간
+1학기 기말고사 기간 이 언제야?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 이 언제야?	event now 2학기 기말고사 기간
+기말고사 기간 언제임?	event now now 기말고사 기간
+1학기 기말고사 기간 언제임?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제임?	event now 2학기 기말고사 기간
+기말고사 기간 언제해?	event now now 기말고사 기간
+1학기 기말고사 기간 언제해?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제해?	event now 2학기 기말고사 기간
+기말고사 기간 언제봄?	event now now 기말고사 기간
+1학기 기말고사 기간 언제봄?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제봄?	event now 2학기 기말고사 기간
+기말고사 기간 언제보나요 ?	event now now 기말고사 기간
+1학기 기말고사 기간 언제보나요 ?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제보나요 ?	event now 2학기 기말고사 기간
+기말고사 기간 언제 해요?	event now now 기말고사 기간
+1학기 기말고사 기간 언제 해요?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제 해요?	event now 2학기 기말고사 기간
+기말고사 기간 언젠가요 ?	event now now 기말고사 기간
+1학기 기말고사 기간 언젠가요 ?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언젠가요 ?	event now 2학기 기말고사 기간
+기말고사 기간 며칠임?	event now now 기말고사 기간
+1학기 기말고사 기간 며칠임?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 며칠임?	event now 2학기 기말고사 기간
+기말고사 기간 언제?	event now now 기말고사 기간
+1학기 기말고사 기간 언제?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제?	event now 2학기 기말고사 기간
+기말고사 기간 언제	event now now 기말고사 기간
+1학기 기말고사 기간 언제	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제	event now 2학기 기말고사 기간
+기말고사 기간 날짜가 언제인가요?	event now now 기말고사 기간
+1학기 기말고사 기간 날짜가 언제인가요?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 날짜가 언제인가요?	event now 2학기 기말고사 기간
+기말고사 기간 날짜가 언제야?	event now now 기말고사 기간
+1학기 기말고사 기간 날짜가 언제야?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 날짜가 언제야?	event now 2학기 기말고사 기간
+기말고사 기간 언제죠?	event now now 기말고사 기간
+1학기 기말고사 기간 언제죠?	event now 1학기 기말고사 기간
+2학기 기말고사 기간 언제죠?	event now 2학기 기말고사 기간
+기말 이 언제야?	event now now 기말고사 기간
+1학기 기말 이 언제야?	event now 1학기 기말고사 기간
+2학기 기말 이 언제야?	event now 2학기 기말고사 기간
+기말 언제임?	event now now 기말고사 기간
+1학기 기말 언제임?	event now 1학기 기말고사 기간
+2학기 기말 언제임?	event now 2학기 기말고사 기간
+기말 언제해?	event now now 기말고사 기간
+1학기 기말 언제해?	event now 1학기 기말고사 기간
+2학기 기말 언제해?	event now 2학기 기말고사 기간
+기말 언제봄?	event now now 기말고사 기간
+1학기 기말 언제봄?	event now 1학기 기말고사 기간
+2학기 기말 언제봄?	event now 2학기 기말고사 기간
+기말 언제보나요 ?	event now now 기말고사 기간
+1학기 기말 언제보나요 ?	event now 1학기 기말고사 기간
+2학기 기말 언제보나요 ?	event now 2학기 기말고사 기간
+기말 언제 해요?	event now now 기말고사 기간
+1학기 기말 언제 해요?	event now 1학기 기말고사 기간
+2학기 기말 언제 해요?	event now 2학기 기말고사 기간
+기말 언젠가요 ?	event now now 기말고사 기간
+1학기 기말 언젠가요 ?	event now 1학기 기말고사 기간
+2학기 기말 언젠가요 ?	event now 2학기 기말고사 기간
+기말 며칠임?	event now now 기말고사 기간
+1학기 기말 며칠임?	event now 1학기 기말고사 기간
+2학기 기말 며칠임?	event now 2학기 기말고사 기간
+기말 언제?	event now now 기말고사 기간
+1학기 기말 언제?	event now 1학기 기말고사 기간
+2학기 기말 언제?	event now 2학기 기말고사 기간
+기말 언제	event now now 기말고사 기간
+1학기 기말 언제	event now 1학기 기말고사 기간
+2학기 기말 언제	event now 2학기 기말고사 기간
+기말 날짜가 언제인가요?	event now now 기말고사 기간
+1학기 기말 날짜가 언제인가요?	event now 1학기 기말고사 기간
+2학기 기말 날짜가 언제인가요?	event now 2학기 기말고사 기간
+기말 날짜가 언제야?	event now now 기말고사 기간
+1학기 기말 날짜가 언제야?	event now 1학기 기말고사 기간
+2학기 기말 날짜가 언제야?	event now 2학기 기말고사 기간
+기말 언제죠?	event now now 기말고사 기간
+1학기 기말 언제죠?	event now 1학기 기말고사 기간
+2학기 기말 언제죠?	event now 2학기 기말고사 기간
+기말 기간 이 언제야?	event now now 기말고사 기간
+1학기 기말 기간 이 언제야?	event now 1학기 기말고사 기간
+2학기 기말 기간 이 언제야?	event now 2학기 기말고사 기간
+기말 기간 언제임?	event now now 기말고사 기간
+1학기 기말 기간 언제임?	event now 1학기 기말고사 기간
+2학기 기말 기간 언제임?	event now 2학기 기말고사 기간
+기말 기간 언제해?	event now now 기말고사 기간
+1학기 기말 기간 언제해?	event now 1학기 기말고사 기간
+2학기 기말 기간 언제해?	event now 2학기 기말고사 기간
+기말 기간 언제봄?	event now now 기말고사 기간
+1학기 기말 기간 언제봄?	event now 1학기 기말고사 기간
+2학기 기말 기간 언제봄?	event now 2학기 기말고사 기간
+기말 기간 언제보나요 ?	event now now 기말고사 기간
+1학기 기말 기간 언제보나요 ?	event now 1학기 기말고사 기간
+2학기 기말 기간 언제보나요 ?	event now 2학기 기말고사 기간
+기말 기간 언제 해요?	event now now 기말고사 기간
+1학기 기말 기간 언제 해요?	event now 1학기 기말고사 기간
+2학기 기말 기간 언제 해요?	event now 2학기 기말고사 기간
+기말 기간 언젠가요 ?	event now now 기말고사 기간
+1학기 기말 기간 언젠가요 ?	event now 1학기 기말고사 기간
+2학기 기말 기간 언젠가요 ?	event now 2학기 기말고사 기간
+기말 기간 며칠임?	event now now 기말고사 기간
+1학기 기말 기간 며칠임?	event now 1학기 기말고사 기간
+2학기 기말 기간 며칠임?	event now 2학기 기말고사 기간
+기말 기간 언제?	event now now 기말고사 기간
+1학기 기말 기간 언제?	event now 1학기 기말고사 기간
+2학기 기말 기간 언제?	event now 2학기 기말고사 기간
+기말 기간 언제	event now now 기말고사 기간
+1학기 기말 기간 언제	event now 1학기 기말고사 기간
+2학기 기말 기간 언제	event now 2학기 기말고사 기간
+기말 기간 날짜가 언제인가요?	event now now 기말고사 기간
+1학기 기말 기간 날짜가 언제인가요?	event now 1학기 기말고사 기간
+2학기 기말 기간 날짜가 언제인가요?	event now 2학기 기말고사 기간
+기말 기간 날짜가 언제야?	event now now 기말고사 기간
+1학기 기말 기간 날짜가 언제야?	event now 1학기 기말고사 기간
+2학기 기말 기간 날짜가 언제야?	event now 2학기 기말고사 기간
+기말 기간 언제죠?	event now now 기말고사 기간
+1학기 기말 기간 언제죠?	event now 1학기 기말고사 기간
+2학기 기말 기간 언제죠?	event now 2학기 기말고사 기간
+기말 시험 이 언제야?	event now now 기말고사 기간
+1학기 기말 시험 이 언제야?	event now 1학기 기말고사 기간
+2학기 기말 시험 이 언제야?	event now 2학기 기말고사 기간
+기말 시험 언제임?	event now now 기말고사 기간
+1학기 기말 시험 언제임?	event now 1학기 기말고사 기간
+2학기 기말 시험 언제임?	event now 2학기 기말고사 기간
+기말 시험 언제해?	event now now 기말고사 기간
+1학기 기말 시험 언제해?	event now 1학기 기말고사 기간
+2학기 기말 시험 언제해?	event now 2학기 기말고사 기간
+기말 시험 언제봄?	event now now 기말고사 기간
+1학기 기말 시험 언제봄?	event now 1학기 기말고사 기간
+2학기 기말 시험 언제봄?	event now 2학기 기말고사 기간
+기말 시험 언제보나요 ?	event now now 기말고사 기간
+1학기 기말 시험 언제보나요 ?	event now 1학기 기말고사 기간
+2학기 기말 시험 언제보나요 ?	event now 2학기 기말고사 기간
+기말 시험 언제 해요?	event now now 기말고사 기간
+1학기 기말 시험 언제 해요?	event now 1학기 기말고사 기간
+2학기 기말 시험 언제 해요?	event now 2학기 기말고사 기간
+기말 시험 언젠가요 ?	event now now 기말고사 기간
+1학기 기말 시험 언젠가요 ?	event now 1학기 기말고사 기간
+2학기 기말 시험 언젠가요 ?	event now 2학기 기말고사 기간
+기말 시험 며칠임?	event now now 기말고사 기간
+1학기 기말 시험 며칠임?	event now 1학기 기말고사 기간
+2학기 기말 시험 며칠임?	event now 2학기 기말고사 기간
+기말 시험 언제?	event now now 기말고사 기간
+1학기 기말 시험 언제?	event now 1학기 기말고사 기간
+2학기 기말 시험 언제?	event now 2학기 기말고사 기간
+기말 시험 언제	event now now 기말고사 기간
+1학기 기말 시험 언제	event now 1학기 기말고사 기간
+2학기 기말 시험 언제	event now 2학기 기말고사 기간
+기말 시험 날짜가 언제인가요?	event now now 기말고사 기간
+1학기 기말 시험 날짜가 언제인가요?	event now 1학기 기말고사 기간
+2학기 기말 시험 날짜가 언제인가요?	event now 2학기 기말고사 기간
+기말 시험 날짜가 언제야?	event now now 기말고사 기간
+1학기 기말 시험 날짜가 언제야?	event now 1학기 기말고사 기간
+2학기 기말 시험 날짜가 언제야?	event now 2학기 기말고사 기간
+기말 시험 언제죠?	event now now 기말고사 기간
+1학기 기말 시험 언제죠?	event now 1학기 기말고사 기간
+2학기 기말 시험 언제죠?	event now 2학기 기말고사 기간
+기말 셤 이 언제야?	event now now 기말고사 기간
+1학기 기말 셤 이 언제야?	event now 1학기 기말고사 기간
+2학기 기말 셤 이 언제야?	event now 2학기 기말고사 기간
+기말 셤 언제임?	event now now 기말고사 기간
+1학기 기말 셤 언제임?	event now 1학기 기말고사 기간
+2학기 기말 셤 언제임?	event now 2학기 기말고사 기간
+기말 셤 언제해?	event now now 기말고사 기간
+1학기 기말 셤 언제해?	event now 1학기 기말고사 기간
+2학기 기말 셤 언제해?	event now 2학기 기말고사 기간
+기말 셤 언제봄?	event now now 기말고사 기간
+1학기 기말 셤 언제봄?	event now 1학기 기말고사 기간
+2학기 기말 셤 언제봄?	event now 2학기 기말고사 기간
+기말 셤 언제보나요 ?	event now now 기말고사 기간
+1학기 기말 셤 언제보나요 ?	event now 1학기 기말고사 기간
+2학기 기말 셤 언제보나요 ?	event now 2학기 기말고사 기간
+기말 셤 언제 해요?	event now now 기말고사 기간
+1학기 기말 셤 언제 해요?	event now 1학기 기말고사 기간
+2학기 기말 셤 언제 해요?	event now 2학기 기말고사 기간
+기말 셤 언젠가요 ?	event now now 기말고사 기간
+1학기 기말 셤 언젠가요 ?	event now 1학기 기말고사 기간
+2학기 기말 셤 언젠가요 ?	event now 2학기 기말고사 기간
+기말 셤 며칠임?	event now now 기말고사 기간
+1학기 기말 셤 며칠임?	event now 1학기 기말고사 기간
+2학기 기말 셤 며칠임?	event now 2학기 기말고사 기간
+기말 셤 언제?	event now now 기말고사 기간
+1학기 기말 셤 언제?	event now 1학기 기말고사 기간
+2학기 기말 셤 언제?	event now 2학기 기말고사 기간
+기말 셤 언제	event now now 기말고사 기간
+1학기 기말 셤 언제	event now 1학기 기말고사 기간
+2학기 기말 셤 언제	event now 2학기 기말고사 기간
+기말 셤 날짜가 언제인가요?	event now now 기말고사 기간
+1학기 기말 셤 날짜가 언제인가요?	event now 1학기 기말고사 기간
+2학기 기말 셤 날짜가 언제인가요?	event now 2학기 기말고사 기간
+기말 셤 날짜가 언제야?	event now now 기말고사 기간
+1학기 기말 셤 날짜가 언제야?	event now 1학기 기말고사 기간
+2학기 기말 셤 날짜가 언제야?	event now 2학기 기말고사 기간
+기말 셤 언제죠?	event now now 기말고사 기간
+1학기 기말 셤 언제죠?	event now 1학기 기말고사 기간
+2학기 기말 셤 언제죠?	event now 2학기 기말고사 기간
+등록기간 이 언제야?	event now now 등록기간
+1학기 등록기간 이 언제야?	event now 1학기 등록기간
+2학기 등록기간 이 언제야?	event now 2학기 등록기간
+등록기간 언제임?	event now now 등록기간
+1학기 등록기간 언제임?	event now 1학기 등록기간
+2학기 등록기간 언제임?	event now 2학기 등록기간
+등록기간 언제해?	event now now 등록기간
+1학기 등록기간 언제해?	event now 1학기 등록기간
+2학기 등록기간 언제해?	event now 2학기 등록기간
+등록기간 언제봄?	event now now 등록기간
+1학기 등록기간 언제봄?	event now 1학기 등록기간
+2학기 등록기간 언제봄?	event now 2학기 등록기간
+등록기간 언제보나요 ?	event now now 등록기간
+1학기 등록기간 언제보나요 ?	event now 1학기 등록기간
+2학기 등록기간 언제보나요 ?	event now 2학기 등록기간
+등록기간 언제 해요?	event now now 등록기간
+1학기 등록기간 언제 해요?	event now 1학기 등록기간
+2학기 등록기간 언제 해요?	event now 2학기 등록기간
+등록기간 언젠가요 ?	event now now 등록기간
+1학기 등록기간 언젠가요 ?	event now 1학기 등록기간
+2학기 등록기간 언젠가요 ?	event now 2학기 등록기간
+등록기간 며칠임?	event now now 등록기간
+1학기 등록기간 며칠임?	event now 1학기 등록기간
+2학기 등록기간 며칠임?	event now 2학기 등록기간
+등록기간 언제?	event now now 등록기간
+1학기 등록기간 언제?	event now 1학기 등록기간
+2학기 등록기간 언제?	event now 2학기 등록기간
+등록기간 언제	event now now 등록기간
+1학기 등록기간 언제	event now 1학기 등록기간
+2학기 등록기간 언제	event now 2학기 등록기간
+등록기간 날짜가 언제인가요?	event now now 등록기간
+1학기 등록기간 날짜가 언제인가요?	event now 1학기 등록기간
+2학기 등록기간 날짜가 언제인가요?	event now 2학기 등록기간
+등록기간 날짜가 언제야?	event now now 등록기간
+1학기 등록기간 날짜가 언제야?	event now 1학기 등록기간
+2학기 등록기간 날짜가 언제야?	event now 2학기 등록기간
+등록기간 언제죠?	event now now 등록기간
+1학기 등록기간 언제죠?	event now 1학기 등록기간
+2학기 등록기간 언제죠?	event now 2학기 등록기간
+등록 이 언제야?	event now now 등록기간
+1학기 등록 이 언제야?	event now 1학기 등록기간
+2학기 등록 이 언제야?	event now 2학기 등록기간
+등록 언제임?	event now now 등록기간
+1학기 등록 언제임?	event now 1학기 등록기간
+2학기 등록 언제임?	event now 2학기 등록기간
+등록 언제해?	event now now 등록기간
+1학기 등록 언제해?	event now 1학기 등록기간
+2학기 등록 언제해?	event now 2학기 등록기간
+등록 언제봄?	event now now 등록기간
+1학기 등록 언제봄?	event now 1학기 등록기간
+2학기 등록 언제봄?	event now 2학기 등록기간
+등록 언제보나요 ?	event now now 등록기간
+1학기 등록 언제보나요 ?	event now 1학기 등록기간
+2학기 등록 언제보나요 ?	event now 2학기 등록기간
+등록 언제 해요?	event now now 등록기간
+1학기 등록 언제 해요?	event now 1학기 등록기간
+2학기 등록 언제 해요?	event now 2학기 등록기간
+등록 언젠가요 ?	event now now 등록기간
+1학기 등록 언젠가요 ?	event now 1학기 등록기간
+2학기 등록 언젠가요 ?	event now 2학기 등록기간
+등록 며칠임?	event now now 등록기간
+1학기 등록 며칠임?	event now 1학기 등록기간
+2학기 등록 며칠임?	event now 2학기 등록기간
+등록 언제?	event now now 등록기간
+1학기 등록 언제?	event now 1학기 등록기간
+2학기 등록 언제?	event now 2학기 등록기간
+등록 언제	event now now 등록기간
+1학기 등록 언제	event now 1학기 등록기간
+2학기 등록 언제	event now 2학기 등록기간
+등록 날짜가 언제인가요?	event now now 등록기간
+1학기 등록 날짜가 언제인가요?	event now 1학기 등록기간
+2학기 등록 날짜가 언제인가요?	event now 2학기 등록기간
+등록 날짜가 언제야?	event now now 등록기간
+1학기 등록 날짜가 언제야?	event now 1학기 등록기간
+2학기 등록 날짜가 언제야?	event now 2학기 등록기간
+등록 언제죠?	event now now 등록기간
+1학기 등록 언제죠?	event now 1학기 등록기간
+2학기 등록 언제죠?	event now 2학기 등록기간
+등록 기간 이 언제야?	event now now 등록기간
+1학기 등록 기간 이 언제야?	event now 1학기 등록기간
+2학기 등록 기간 이 언제야?	event now 2학기 등록기간
+등록 기간 언제임?	event now now 등록기간
+1학기 등록 기간 언제임?	event now 1학기 등록기간
+2학기 등록 기간 언제임?	event now 2학기 등록기간
+등록 기간 언제해?	event now now 등록기간
+1학기 등록 기간 언제해?	event now 1학기 등록기간
+2학기 등록 기간 언제해?	event now 2학기 등록기간
+등록 기간 언제봄?	event now now 등록기간
+1학기 등록 기간 언제봄?	event now 1학기 등록기간
+2학기 등록 기간 언제봄?	event now 2학기 등록기간
+등록 기간 언제보나요 ?	event now now 등록기간
+1학기 등록 기간 언제보나요 ?	event now 1학기 등록기간
+2학기 등록 기간 언제보나요 ?	event now 2학기 등록기간
+등록 기간 언제 해요?	event now now 등록기간
+1학기 등록 기간 언제 해요?	event now 1학기 등록기간
+2학기 등록 기간 언제 해요?	event now 2학기 등록기간
+등록 기간 언젠가요 ?	event now now 등록기간
+1학기 등록 기간 언젠가요 ?	event now 1학기 등록기간
+2학기 등록 기간 언젠가요 ?	event now 2학기 등록기간
+등록 기간 며칠임?	event now now 등록기간
+1학기 등록 기간 며칠임?	event now 1학기 등록기간
+2학기 등록 기간 며칠임?	event now 2학기 등록기간
+등록 기간 언제?	event now now 등록기간
+1학기 등록 기간 언제?	event now 1학기 등록기간
+2학기 등록 기간 언제?	event now 2학기 등록기간
+등록 기간 언제	event now now 등록기간
+1학기 등록 기간 언제	event now 1학기 등록기간
+2학기 등록 기간 언제	event now 2학기 등록기간
+등록 기간 날짜가 언제인가요?	event now now 등록기간
+1학기 등록 기간 날짜가 언제인가요?	event now 1학기 등록기간
+2학기 등록 기간 날짜가 언제인가요?	event now 2학기 등록기간
+등록 기간 날짜가 언제야?	event now now 등록기간
+1학기 등록 기간 날짜가 언제야?	event now 1학기 등록기간
+2학기 등록 기간 날짜가 언제야?	event now 2학기 등록기간
+등록 기간 언제죠?	event now now 등록기간
+1학기 등록 기간 언제죠?	event now 1학기 등록기간
+2학기 등록 기간 언제죠?	event now 2학기 등록기간
+보강 및 자율학습 주간 이 언제야?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 이 언제야?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 이 언제야?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제임?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제임?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제임?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제해?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제해?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제해?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제봄?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제봄?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제봄?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제보나요 ?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제보나요 ?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제보나요 ?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제 해요?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제 해요?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제 해요?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언젠가요 ?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언젠가요 ?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언젠가요 ?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 며칠임?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 며칠임?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 며칠임?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 날짜가 언제인가요?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 날짜가 언제인가요?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 날짜가 언제인가요?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 날짜가 언제야?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 날짜가 언제야?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 날짜가 언제야?	event now 2학기 보강 및 자율학습 주간
+보강 및 자율학습 주간 언제죠?	event now now 보강 및 자율학습 주간
+1학기 보강 및 자율학습 주간 언제죠?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 및 자율학습 주간 언제죠?	event now 2학기 보강 및 자율학습 주간
+보강 이 언제야?	event now now 보강 및 자율학습 주간
+1학기 보강 이 언제야?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 이 언제야?	event now 2학기 보강 및 자율학습 주간
+보강 언제임?	event now now 보강 및 자율학습 주간
+1학기 보강 언제임?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제임?	event now 2학기 보강 및 자율학습 주간
+보강 언제해?	event now now 보강 및 자율학습 주간
+1학기 보강 언제해?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제해?	event now 2학기 보강 및 자율학습 주간
+보강 언제봄?	event now now 보강 및 자율학습 주간
+1학기 보강 언제봄?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제봄?	event now 2학기 보강 및 자율학습 주간
+보강 언제보나요 ?	event now now 보강 및 자율학습 주간
+1학기 보강 언제보나요 ?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제보나요 ?	event now 2학기 보강 및 자율학습 주간
+보강 언제 해요?	event now now 보강 및 자율학습 주간
+1학기 보강 언제 해요?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제 해요?	event now 2학기 보강 및 자율학습 주간
+보강 언젠가요 ?	event now now 보강 및 자율학습 주간
+1학기 보강 언젠가요 ?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언젠가요 ?	event now 2학기 보강 및 자율학습 주간
+보강 며칠임?	event now now 보강 및 자율학습 주간
+1학기 보강 며칠임?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 며칠임?	event now 2학기 보강 및 자율학습 주간
+보강 언제?	event now now 보강 및 자율학습 주간
+1학기 보강 언제?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제?	event now 2학기 보강 및 자율학습 주간
+보강 언제	event now now 보강 및 자율학습 주간
+1학기 보강 언제	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제	event now 2학기 보강 및 자율학습 주간
+보강 날짜가 언제인가요?	event now now 보강 및 자율학습 주간
+1학기 보강 날짜가 언제인가요?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 날짜가 언제인가요?	event now 2학기 보강 및 자율학습 주간
+보강 날짜가 언제야?	event now now 보강 및 자율학습 주간
+1학기 보강 날짜가 언제야?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 날짜가 언제야?	event now 2학기 보강 및 자율학습 주간
+보강 언제죠?	event now now 보강 및 자율학습 주간
+1학기 보강 언제죠?	event now 1학기 보강 및 자율학습 주간
+2학기 보강 언제죠?	event now 2학기 보강 및 자율학습 주간
+자율 학습 이 언제야?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 이 언제야?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 이 언제야?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제임?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제임?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제임?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제해?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제해?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제해?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제봄?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제봄?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제봄?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제보나요 ?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제보나요 ?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제보나요 ?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제 해요?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제 해요?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제 해요?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언젠가요 ?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언젠가요 ?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언젠가요 ?	event now 2학기 보강 및 자율학습 주간
+자율 학습 며칠임?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 며칠임?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 며칠임?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제	event now 2학기 보강 및 자율학습 주간
+자율 학습 날짜가 언제인가요?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 날짜가 언제인가요?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 날짜가 언제인가요?	event now 2학기 보강 및 자율학습 주간
+자율 학습 날짜가 언제야?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 날짜가 언제야?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 날짜가 언제야?	event now 2학기 보강 및 자율학습 주간
+자율 학습 언제죠?	event now now 보강 및 자율학습 주간
+1학기 자율 학습 언제죠?	event now 1학기 보강 및 자율학습 주간
+2학기 자율 학습 언제죠?	event now 2학기 보강 및 자율학습 주간
+성적입력 기간 이 언제야?	event now now 성적입력 기간
+1학기 성적입력 기간 이 언제야?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 이 언제야?	event now 2학기 성적입력 기간
+성적입력 기간 언제임?	event now now 성적입력 기간
+1학기 성적입력 기간 언제임?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제임?	event now 2학기 성적입력 기간
+성적입력 기간 언제해?	event now now 성적입력 기간
+1학기 성적입력 기간 언제해?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제해?	event now 2학기 성적입력 기간
+성적입력 기간 언제봄?	event now now 성적입력 기간
+1학기 성적입력 기간 언제봄?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제봄?	event now 2학기 성적입력 기간
+성적입력 기간 언제보나요 ?	event now now 성적입력 기간
+1학기 성적입력 기간 언제보나요 ?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제보나요 ?	event now 2학기 성적입력 기간
+성적입력 기간 언제 해요?	event now now 성적입력 기간
+1학기 성적입력 기간 언제 해요?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제 해요?	event now 2학기 성적입력 기간
+성적입력 기간 언젠가요 ?	event now now 성적입력 기간
+1학기 성적입력 기간 언젠가요 ?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언젠가요 ?	event now 2학기 성적입력 기간
+성적입력 기간 며칠임?	event now now 성적입력 기간
+1학기 성적입력 기간 며칠임?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 며칠임?	event now 2학기 성적입력 기간
+성적입력 기간 언제?	event now now 성적입력 기간
+1학기 성적입력 기간 언제?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제?	event now 2학기 성적입력 기간
+성적입력 기간 언제	event now now 성적입력 기간
+1학기 성적입력 기간 언제	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제	event now 2학기 성적입력 기간
+성적입력 기간 날짜가 언제인가요?	event now now 성적입력 기간
+1학기 성적입력 기간 날짜가 언제인가요?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 날짜가 언제인가요?	event now 2학기 성적입력 기간
+성적입력 기간 날짜가 언제야?	event now now 성적입력 기간
+1학기 성적입력 기간 날짜가 언제야?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 날짜가 언제야?	event now 2학기 성적입력 기간
+성적입력 기간 언제죠?	event now now 성적입력 기간
+1학기 성적입력 기간 언제죠?	event now 1학기 성적입력 기간
+2학기 성적입력 기간 언제죠?	event now 2학기 성적입력 기간
+성적 입력 이 언제야?	event now now 성적입력 기간
+1학기 성적 입력 이 언제야?	event now 1학기 성적입력 기간
+2학기 성적 입력 이 언제야?	event now 2학기 성적입력 기간
+성적 입력 언제임?	event now now 성적입력 기간
+1학기 성적 입력 언제임?	event now 1학기 성적입력 기간
+2학기 성적 입력 언제임?	event now 2학기 성적입력 기간
+성적 입력 언제해?	event now now 성적입력 기간
+1학기 성적 입력 언제해?	event now 1학기 성적입력 기간
+2학기 성적 입력 언제해?	event now 2학기 성적입력 기간
+성적 입력 언제봄?	event now now 성적입력 기간
+1학기 성적 입력 언제봄?	event now 1학기 성적입력 기간
+2학기 성적 입력 언제봄?	event now 2학기 성적입력 기간
+성적 입력 언제보나요 ?	event now now 성적입력 기간
+1학기 성적 입력 언제보나요 ?	event now 1학기 성적입력 기간
+2학기 성적 입력 언제보나요 ?	event now 2학기 성적입력 기간
+성적 입력 언제 해요?	event now now 성적입력 기간
+1학기 성적 입력 언제 해요?	event now 1학기 성적입력 기간
+2학기 성적 입력 언제 해요?	event now 2학기 성적입력 기간
+성적 입력 언젠가요 ?	event now now 성적입력 기간
+1학기 성적 입력 언젠가요 ?	event now 1학기 성적입력 기간
+2학기 성적 입력 언젠가요 ?	event now 2학기 성적입력 기간
+성적 입력 며칠임?	event now now 성적입력 기간
+1학기 성적 입력 며칠임?	event now 1학기 성적입력 기간
+2학기 성적 입력 며칠임?	event now 2학기 성적입력 기간
+성적 입력 언제?	event now now 성적입력 기간
+1학기 성적 입력 언제?	event now 1학기 성적입력 기간
+2학기 성적 입력 언제?	event now 2학기 성적입력 기간
+성적 입력 언제	event now now 성적입력 기간
+1학기 성적 입력 언제	event now 1학기 성적입력 기간
+2학기 성적 입력 언제	event now 2학기 성적입력 기간
+성적 입력 날짜가 언제인가요?	event now now 성적입력 기간
+1학기 성적 입력 날짜가 언제인가요?	event now 1학기 성적입력 기간
+2학기 성적 입력 날짜가 언제인가요?	event now 2학기 성적입력 기간
+성적 입력 날짜가 언제야?	event now now 성적입력 기간
+1학기 성적 입력 날짜가 언제야?	event now 1학기 성적입력 기간
+2학기 성적 입력 날짜가 언제야?	event now 2학기 성적입력 기간
+성적 입력 언제죠?	event now now 성적입력 기간
+1학기 성적 입력 언제죠?	event now 1학기 성적입력 기간
+2학기 성적 입력 언제죠?	event now 2학기 성적입력 기간
+성적확인, 이의신청 및 정정기간 이 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 이 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 이 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제임?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제해?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제해?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제해?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제봄?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제봄?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제봄?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제보나요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제보나요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제보나요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제 해요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제 해요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제 해요?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언젠가요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언젠가요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언젠가요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 며칠임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 며칠임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 며칠임?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 날짜가 언제인가요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 날짜가 언제인가요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 날짜가 언제인가요?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 날짜가 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 날짜가 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 날짜가 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확인, 이의신청 및 정정기간 언제죠?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적확인, 이의신청 및 정정기간 언제죠?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적확인, 이의신청 및 정정기간 언제죠?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 이 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 이 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 이 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제임?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제해?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제해?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제해?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제봄?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제봄?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제봄?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제보나요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제보나요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제보나요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제 해요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제 해요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제 해요?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언젠가요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언젠가요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언젠가요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 며칠임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 며칠임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 며칠임?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 날짜가 언제인가요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 날짜가 언제인가요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 날짜가 언제인가요?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 날짜가 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 날짜가 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 날짜가 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 확인 언제죠?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 확인 언제죠?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 확인 언제죠?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 이 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 이 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 이 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제임?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제해?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제해?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제해?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제봄?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제봄?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제봄?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제보나요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제보나요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제보나요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제 해요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제 해요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제 해요?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언젠가요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언젠가요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언젠가요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 며칠임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 며칠임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 며칠임?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 날짜가 언제인가요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 날짜가 언제인가요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 날짜가 언제인가요?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 날짜가 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 날짜가 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 날짜가 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+이의 신청 언제죠?	event now now 성적확인, 이의신청 및 정정기간
+1학기 이의 신청 언제죠?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 이의 신청 언제죠?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 이 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 이 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 이 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제임?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제해?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제해?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제해?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제봄?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제봄?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제봄?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제보나요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제보나요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제보나요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제 해요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제 해요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제 해요?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언젠가요 ?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언젠가요 ?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언젠가요 ?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 며칠임?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 며칠임?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 며칠임?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 날짜가 언제인가요?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 날짜가 언제인가요?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 날짜가 언제인가요?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 날짜가 언제야?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 날짜가 언제야?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 날짜가 언제야?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적 이의 신청 언제죠?	event now now 성적확인, 이의신청 및 정정기간
+1학기 성적 이의 신청 언제죠?	event now 1학기 성적확인, 이의신청 및 정정기간
+2학기 성적 이의 신청 언제죠?	event now 2학기 성적확인, 이의신청 및 정정기간
+성적확정 이 언제야?	event now now 성적확정
+1학기 성적확정 이 언제야?	event now 1학기 성적확정
+2학기 성적확정 이 언제야?	event now 2학기 성적확정
+성적확정 언제임?	event now now 성적확정
+1학기 성적확정 언제임?	event now 1학기 성적확정
+2학기 성적확정 언제임?	event now 2학기 성적확정
+성적확정 언제해?	event now now 성적확정
+1학기 성적확정 언제해?	event now 1학기 성적확정
+2학기 성적확정 언제해?	event now 2학기 성적확정
+성적확정 언제봄?	event now now 성적확정
+1학기 성적확정 언제봄?	event now 1학기 성적확정
+2학기 성적확정 언제봄?	event now 2학기 성적확정
+성적확정 언제보나요 ?	event now now 성적확정
+1학기 성적확정 언제보나요 ?	event now 1학기 성적확정
+2학기 성적확정 언제보나요 ?	event now 2학기 성적확정
+성적확정 언제 해요?	event now now 성적확정
+1학기 성적확정 언제 해요?	event now 1학기 성적확정
+2학기 성적확정 언제 해요?	event now 2학기 성적확정
+성적확정 언젠가요 ?	event now now 성적확정
+1학기 성적확정 언젠가요 ?	event now 1학기 성적확정
+2학기 성적확정 언젠가요 ?	event now 2학기 성적확정
+성적확정 며칠임?	event now now 성적확정
+1학기 성적확정 며칠임?	event now 1학기 성적확정
+2학기 성적확정 며칠임?	event now 2학기 성적확정
+성적확정 언제?	event now now 성적확정
+1학기 성적확정 언제?	event now 1학기 성적확정
+2학기 성적확정 언제?	event now 2학기 성적확정
+성적확정 언제	event now now 성적확정
+1학기 성적확정 언제	event now 1학기 성적확정
+2학기 성적확정 언제	event now 2학기 성적확정
+성적확정 날짜가 언제인가요?	event now now 성적확정
+1학기 성적확정 날짜가 언제인가요?	event now 1학기 성적확정
+2학기 성적확정 날짜가 언제인가요?	event now 2학기 성적확정
+성적확정 날짜가 언제야?	event now now 성적확정
+1학기 성적확정 날짜가 언제야?	event now 1학기 성적확정
+2학기 성적확정 날짜가 언제야?	event now 2학기 성적확정
+성적확정 언제죠?	event now now 성적확정
+1학기 성적확정 언제죠?	event now 1학기 성적확정
+2학기 성적확정 언제죠?	event now 2학기 성적확정
+성적 확정 이 언제야?	event now now 성적확정
+1학기 성적 확정 이 언제야?	event now 1학기 성적확정
+2학기 성적 확정 이 언제야?	event now 2학기 성적확정
+성적 확정 언제임?	event now now 성적확정
+1학기 성적 확정 언제임?	event now 1학기 성적확정
+2학기 성적 확정 언제임?	event now 2학기 성적확정
+성적 확정 언제해?	event now now 성적확정
+1학기 성적 확정 언제해?	event now 1학기 성적확정
+2학기 성적 확정 언제해?	event now 2학기 성적확정
+성적 확정 언제봄?	event now now 성적확정
+1학기 성적 확정 언제봄?	event now 1학기 성적확정
+2학기 성적 확정 언제봄?	event now 2학기 성적확정
+성적 확정 언제보나요 ?	event now now 성적확정
+1학기 성적 확정 언제보나요 ?	event now 1학기 성적확정
+2학기 성적 확정 언제보나요 ?	event now 2학기 성적확정
+성적 확정 언제 해요?	event now now 성적확정
+1학기 성적 확정 언제 해요?	event now 1학기 성적확정
+2학기 성적 확정 언제 해요?	event now 2학기 성적확정
+성적 확정 언젠가요 ?	event now now 성적확정
+1학기 성적 확정 언젠가요 ?	event now 1학기 성적확정
+2학기 성적 확정 언젠가요 ?	event now 2학기 성적확정
+성적 확정 며칠임?	event now now 성적확정
+1학기 성적 확정 며칠임?	event now 1학기 성적확정
+2학기 성적 확정 며칠임?	event now 2학기 성적확정
+성적 확정 언제?	event now now 성적확정
+1학기 성적 확정 언제?	event now 1학기 성적확정
+2학기 성적 확정 언제?	event now 2학기 성적확정
+성적 확정 언제	event now now 성적확정
+1학기 성적 확정 언제	event now 1학기 성적확정
+2학기 성적 확정 언제	event now 2학기 성적확정
+성적 확정 날짜가 언제인가요?	event now now 성적확정
+1학기 성적 확정 날짜가 언제인가요?	event now 1학기 성적확정
+2학기 성적 확정 날짜가 언제인가요?	event now 2학기 성적확정
+성적 확정 날짜가 언제야?	event now now 성적확정
+1학기 성적 확정 날짜가 언제야?	event now 1학기 성적확정
+2학기 성적 확정 날짜가 언제야?	event now 2학기 성적확정
+성적 확정 언제죠?	event now now 성적확정
+1학기 성적 확정 언제죠?	event now 1학기 성적확정
+2학기 성적 확정 언제죠?	event now 2학기 성적확정
+수강신청 기간 이 언제야?	event now now 수강신청 기간
+1학기 수강신청 기간 이 언제야?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 이 언제야?	event now 2학기 수강신청 기간
+수강신청 기간 언제임?	event now now 수강신청 기간
+1학기 수강신청 기간 언제임?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제임?	event now 2학기 수강신청 기간
+수강신청 기간 언제해?	event now now 수강신청 기간
+1학기 수강신청 기간 언제해?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제해?	event now 2학기 수강신청 기간
+수강신청 기간 언제봄?	event now now 수강신청 기간
+1학기 수강신청 기간 언제봄?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제봄?	event now 2학기 수강신청 기간
+수강신청 기간 언제보나요 ?	event now now 수강신청 기간
+1학기 수강신청 기간 언제보나요 ?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제보나요 ?	event now 2학기 수강신청 기간
+수강신청 기간 언제 해요?	event now now 수강신청 기간
+1학기 수강신청 기간 언제 해요?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제 해요?	event now 2학기 수강신청 기간
+수강신청 기간 언젠가요 ?	event now now 수강신청 기간
+1학기 수강신청 기간 언젠가요 ?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언젠가요 ?	event now 2학기 수강신청 기간
+수강신청 기간 며칠임?	event now now 수강신청 기간
+1학기 수강신청 기간 며칠임?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 며칠임?	event now 2학기 수강신청 기간
+수강신청 기간 언제?	event now now 수강신청 기간
+1학기 수강신청 기간 언제?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제?	event now 2학기 수강신청 기간
+수강신청 기간 언제	event now now 수강신청 기간
+1학기 수강신청 기간 언제	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제	event now 2학기 수강신청 기간
+수강신청 기간 날짜가 언제인가요?	event now now 수강신청 기간
+1학기 수강신청 기간 날짜가 언제인가요?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 날짜가 언제인가요?	event now 2학기 수강신청 기간
+수강신청 기간 날짜가 언제야?	event now now 수강신청 기간
+1학기 수강신청 기간 날짜가 언제야?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 날짜가 언제야?	event now 2학기 수강신청 기간
+수강신청 기간 언제죠?	event now now 수강신청 기간
+1학기 수강신청 기간 언제죠?	event now 1학기 수강신청 기간
+2학기 수강신청 기간 언제죠?	event now 2학기 수강신청 기간
+수강 이 언제야?	event now now 수강신청 기간
+1학기 수강 이 언제야?	event now 1학기 수강신청 기간
+2학기 수강 이 언제야?	event now 2학기 수강신청 기간
+수강 언제임?	event now now 수강신청 기간
+1학기 수강 언제임?	event now 1학기 수강신청 기간
+2학기 수강 언제임?	event now 2학기 수강신청 기간
+수강 언제해?	event now now 수강신청 기간
+1학기 수강 언제해?	event now 1학기 수강신청 기간
+2학기 수강 언제해?	event now 2학기 수강신청 기간
+수강 언제봄?	event now now 수강신청 기간
+1학기 수강 언제봄?	event now 1학기 수강신청 기간
+2학기 수강 언제봄?	event now 2학기 수강신청 기간
+수강 언제보나요 ?	event now now 수강신청 기간
+1학기 수강 언제보나요 ?	event now 1학기 수강신청 기간
+2학기 수강 언제보나요 ?	event now 2학기 수강신청 기간
+수강 언제 해요?	event now now 수강신청 기간
+1학기 수강 언제 해요?	event now 1학기 수강신청 기간
+2학기 수강 언제 해요?	event now 2학기 수강신청 기간
+수강 언젠가요 ?	event now now 수강신청 기간
+1학기 수강 언젠가요 ?	event now 1학기 수강신청 기간
+2학기 수강 언젠가요 ?	event now 2학기 수강신청 기간
+수강 며칠임?	event now now 수강신청 기간
+1학기 수강 며칠임?	event now 1학기 수강신청 기간
+2학기 수강 며칠임?	event now 2학기 수강신청 기간
+수강 언제?	event now now 수강신청 기간
+1학기 수강 언제?	event now 1학기 수강신청 기간
+2학기 수강 언제?	event now 2학기 수강신청 기간
+수강 언제	event now now 수강신청 기간
+1학기 수강 언제	event now 1학기 수강신청 기간
+2학기 수강 언제	event now 2학기 수강신청 기간
+수강 날짜가 언제인가요?	event now now 수강신청 기간
+1학기 수강 날짜가 언제인가요?	event now 1학기 수강신청 기간
+2학기 수강 날짜가 언제인가요?	event now 2학기 수강신청 기간
+수강 날짜가 언제야?	event now now 수강신청 기간
+1학기 수강 날짜가 언제야?	event now 1학기 수강신청 기간
+2학기 수강 날짜가 언제야?	event now 2학기 수강신청 기간
+수강 언제죠?	event now now 수강신청 기간
+1학기 수강 언제죠?	event now 1학기 수강신청 기간
+2학기 수강 언제죠?	event now 2학기 수강신청 기간
+수강 신청 이 언제야?	event now now 수강신청 기간
+1학기 수강 신청 이 언제야?	event now 1학기 수강신청 기간
+2학기 수강 신청 이 언제야?	event now 2학기 수강신청 기간
+수강 신청 언제임?	event now now 수강신청 기간
+1학기 수강 신청 언제임?	event now 1학기 수강신청 기간
+2학기 수강 신청 언제임?	event now 2학기 수강신청 기간
+수강 신청 언제해?	event now now 수강신청 기간
+1학기 수강 신청 언제해?	event now 1학기 수강신청 기간
+2학기 수강 신청 언제해?	event now 2학기 수강신청 기간
+수강 신청 언제봄?	event now now 수강신청 기간
+1학기 수강 신청 언제봄?	event now 1학기 수강신청 기간
+2학기 수강 신청 언제봄?	event now 2학기 수강신청 기간
+수강 신청 언제보나요 ?	event now now 수강신청 기간
+1학기 수강 신청 언제보나요 ?	event now 1학기 수강신청 기간
+2학기 수강 신청 언제보나요 ?	event now 2학기 수강신청 기간
+수강 신청 언제 해요?	event now now 수강신청 기간
+1학기 수강 신청 언제 해요?	event now 1학기 수강신청 기간
+2학기 수강 신청 언제 해요?	event now 2학기 수강신청 기간
+수강 신청 언젠가요 ?	event now now 수강신청 기간
+1학기 수강 신청 언젠가요 ?	event now 1학기 수강신청 기간
+2학기 수강 신청 언젠가요 ?	event now 2학기 수강신청 기간
+수강 신청 며칠임?	event now now 수강신청 기간
+1학기 수강 신청 며칠임?	event now 1학기 수강신청 기간
+2학기 수강 신청 며칠임?	event now 2학기 수강신청 기간
+수강 신청 언제?	event now now 수강신청 기간
+1학기 수강 신청 언제?	event now 1학기 수강신청 기간
+2학기 수강 신청 언제?	event now 2학기 수강신청 기간
+수강 신청 언제	event now now 수강신청 기간
+1학기 수강 신청 언제	event now 1학기 수강신청 기간
+2학기 수강 신청 언제	event now 2학기 수강신청 기간
+수강 신청 날짜가 언제인가요?	event now now 수강신청 기간
+1학기 수강 신청 날짜가 언제인가요?	event now 1학기 수강신청 기간
+2학기 수강 신청 날짜가 언제인가요?	event now 2학기 수강신청 기간
+수강 신청 날짜가 언제야?	event now now 수강신청 기간
+1학기 수강 신청 날짜가 언제야?	event now 1학기 수강신청 기간
+2학기 수강 신청 날짜가 언제야?	event now 2학기 수강신청 기간
+수강 신청 언제죠?	event now now 수강신청 기간
+1학기 수강 신청 언제죠?	event now 1학기 수강신청 기간
+2학기 수강 신청 언제죠?	event now 2학기 수강신청 기간
+수강신청 정정 및 취소 기간 이 언제야?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 이 언제야?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 이 언제야?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제임?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제임?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제임?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제해?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제해?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제해?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제봄?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제봄?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제봄?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제보나요 ?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제보나요 ?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제보나요 ?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제 해요?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제 해요?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제 해요?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언젠가요 ?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언젠가요 ?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언젠가요 ?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 며칠임?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 며칠임?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 며칠임?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 날짜가 언제인가요?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 날짜가 언제인가요?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 날짜가 언제인가요?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 날짜가 언제야?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 날짜가 언제야?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 날짜가 언제야?	event now 2학기 수강신청 정정 및 취소 기간
+수강신청 정정 및 취소 기간 언제죠?	event now now 수강신청 정정 및 취소 기간
+1학기 수강신청 정정 및 취소 기간 언제죠?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강신청 정정 및 취소 기간 언제죠?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 이 언제야?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 이 언제야?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 이 언제야?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제임?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제임?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제임?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제해?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제해?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제해?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제봄?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제봄?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제봄?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제보나요 ?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제보나요 ?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제보나요 ?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제 해요?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제 해요?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제 해요?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언젠가요 ?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언젠가요 ?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언젠가요 ?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 며칠임?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 며칠임?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 며칠임?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 날짜가 언제인가요?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 날짜가 언제인가요?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 날짜가 언제인가요?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 날짜가 언제야?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 날짜가 언제야?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 날짜가 언제야?	event now 2학기 수강신청 정정 및 취소 기간
+수강 정정 언제죠?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 정정 언제죠?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 정정 언제죠?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 이 언제야?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 이 언제야?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 이 언제야?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제임?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제임?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제임?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제해?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제해?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제해?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제봄?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제봄?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제봄?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제보나요 ?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제보나요 ?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제보나요 ?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제 해요?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제 해요?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제 해요?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언젠가요 ?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언젠가요 ?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언젠가요 ?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 며칠임?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 며칠임?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 며칠임?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 날짜가 언제인가요?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 날짜가 언제인가요?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 날짜가 언제인가요?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 날짜가 언제야?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 날짜가 언제야?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 날짜가 언제야?	event now 2학기 수강신청 정정 및 취소 기간
+수강 취소 언제죠?	event now now 수강신청 정정 및 취소 기간
+1학기 수강 취소 언제죠?	event now 1학기 수강신청 정정 및 취소 기간
+2학기 수강 취소 언제죠?	event now 2학기 수강신청 정정 및 취소 기간
+장바구니 수강신청 기간 이 언제야?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 이 언제야?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 이 언제야?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제임?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제임?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제임?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제해?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제해?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제해?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제봄?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제봄?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제봄?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제보나요 ?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제보나요 ?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제보나요 ?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제 해요?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제 해요?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제 해요?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언젠가요 ?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언젠가요 ?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언젠가요 ?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 며칠임?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 며칠임?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 며칠임?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 날짜가 언제인가요?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 날짜가 언제인가요?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 날짜가 언제인가요?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 날짜가 언제야?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 날짜가 언제야?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 날짜가 언제야?	event now 2학기 장바구니 수강신청 기간
+장바구니 수강신청 기간 언제죠?	event now now 장바구니 수강신청 기간
+1학기 장바구니 수강신청 기간 언제죠?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 수강신청 기간 언제죠?	event now 2학기 장바구니 수강신청 기간
+장바구니 이 언제야?	event now now 장바구니 수강신청 기간
+1학기 장바구니 이 언제야?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 이 언제야?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제임?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제임?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제임?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제해?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제해?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제해?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제봄?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제봄?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제봄?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제보나요 ?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제보나요 ?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제보나요 ?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제 해요?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제 해요?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제 해요?	event now 2학기 장바구니 수강신청 기간
+장바구니 언젠가요 ?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언젠가요 ?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언젠가요 ?	event now 2학기 장바구니 수강신청 기간
+장바구니 며칠임?	event now now 장바구니 수강신청 기간
+1학기 장바구니 며칠임?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 며칠임?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제	event now 2학기 장바구니 수강신청 기간
+장바구니 날짜가 언제인가요?	event now now 장바구니 수강신청 기간
+1학기 장바구니 날짜가 언제인가요?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 날짜가 언제인가요?	event now 2학기 장바구니 수강신청 기간
+장바구니 날짜가 언제야?	event now now 장바구니 수강신청 기간
+1학기 장바구니 날짜가 언제야?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 날짜가 언제야?	event now 2학기 장바구니 수강신청 기간
+장바구니 언제죠?	event now now 장바구니 수강신청 기간
+1학기 장바구니 언제죠?	event now 1학기 장바구니 수강신청 기간
+2학기 장바구니 언제죠?	event now 2학기 장바구니 수강신청 기간
+중간 강의평가 기간 이 언제야?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 이 언제야?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 이 언제야?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제임?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제임?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제임?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제해?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제해?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제해?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제봄?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제봄?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제봄?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제보나요 ?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제보나요 ?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제보나요 ?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제 해요?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제 해요?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제 해요?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언젠가요 ?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언젠가요 ?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언젠가요 ?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 며칠임?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 며칠임?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 며칠임?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 날짜가 언제인가요?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 날짜가 언제인가요?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 날짜가 언제인가요?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 날짜가 언제야?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 날짜가 언제야?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 날짜가 언제야?	event now 2학기 중간 강의평가 기간
+중간 강의평가 기간 언제죠?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 기간 언제죠?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 기간 언제죠?	event now 2학기 중간 강의평가 기간
+중간 강의평가 이 언제야?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 이 언제야?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 이 언제야?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제임?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제임?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제임?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제해?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제해?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제해?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제봄?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제봄?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제봄?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제보나요 ?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제보나요 ?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제보나요 ?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제 해요?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제 해요?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제 해요?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언젠가요 ?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언젠가요 ?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언젠가요 ?	event now 2학기 중간 강의평가 기간
+중간 강의평가 며칠임?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 며칠임?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 며칠임?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제	event now 2학기 중간 강의평가 기간
+중간 강의평가 날짜가 언제인가요?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 날짜가 언제인가요?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 날짜가 언제인가요?	event now 2학기 중간 강의평가 기간
+중간 강의평가 날짜가 언제야?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 날짜가 언제야?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 날짜가 언제야?	event now 2학기 중간 강의평가 기간
+중간 강의평가 언제죠?	event now now 중간 강의평가 기간
+1학기 중간 강의평가 언제죠?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의평가 언제죠?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 이 언제야?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 이 언제야?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 이 언제야?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제임?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제임?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제임?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제해?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제해?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제해?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제봄?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제봄?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제봄?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제보나요 ?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제보나요 ?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제보나요 ?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제 해요?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제 해요?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제 해요?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언젠가요 ?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언젠가요 ?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언젠가요 ?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 며칠임?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 며칠임?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 며칠임?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제	event now 2학기 중간 강의평가 기간
+중간 강의 평가 날짜가 언제인가요?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 날짜가 언제인가요?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 날짜가 언제인가요?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 날짜가 언제야?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 날짜가 언제야?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 날짜가 언제야?	event now 2학기 중간 강의평가 기간
+중간 강의 평가 언제죠?	event now now 중간 강의평가 기간
+1학기 중간 강의 평가 언제죠?	event now 1학기 중간 강의평가 기간
+2학기 중간 강의 평가 언제죠?	event now 2학기 중간 강의평가 기간
+중간고사 기간 이 언제야?	event now now 중간고사 기간
+1학기 중간고사 기간 이 언제야?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 이 언제야?	event now 2학기 중간고사 기간
+중간고사 기간 언제임?	event now now 중간고사 기간
+1학기 중간고사 기간 언제임?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제임?	event now 2학기 중간고사 기간
+중간고사 기간 언제해?	event now now 중간고사 기간
+1학기 중간고사 기간 언제해?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제해?	event now 2학기 중간고사 기간
+중간고사 기간 언제봄?	event now now 중간고사 기간
+1학기 중간고사 기간 언제봄?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제봄?	event now 2학기 중간고사 기간
+중간고사 기간 언제보나요 ?	event now now 중간고사 기간
+1학기 중간고사 기간 언제보나요 ?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제보나요 ?	event now 2학기 중간고사 기간
+중간고사 기간 언제 해요?	event now now 중간고사 기간
+1학기 중간고사 기간 언제 해요?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제 해요?	event now 2학기 중간고사 기간
+중간고사 기간 언젠가요 ?	event now now 중간고사 기간
+1학기 중간고사 기간 언젠가요 ?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언젠가요 ?	event now 2학기 중간고사 기간
+중간고사 기간 며칠임?	event now now 중간고사 기간
+1학기 중간고사 기간 며칠임?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 며칠임?	event now 2학기 중간고사 기간
+중간고사 기간 언제?	event now now 중간고사 기간
+1학기 중간고사 기간 언제?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제?	event now 2학기 중간고사 기간
+중간고사 기간 언제	event now now 중간고사 기간
+1학기 중간고사 기간 언제	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제	event now 2학기 중간고사 기간
+중간고사 기간 날짜가 언제인가요?	event now now 중간고사 기간
+1학기 중간고사 기간 날짜가 언제인가요?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 날짜가 언제인가요?	event now 2학기 중간고사 기간
+중간고사 기간 날짜가 언제야?	event now now 중간고사 기간
+1학기 중간고사 기간 날짜가 언제야?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 날짜가 언제야?	event now 2학기 중간고사 기간
+중간고사 기간 언제죠?	event now now 중간고사 기간
+1학기 중간고사 기간 언제죠?	event now 1학기 중간고사 기간
+2학기 중간고사 기간 언제죠?	event now 2학기 중간고사 기간
+중간고사 이 언제야?	event now now 중간고사 기간
+1학기 중간고사 이 언제야?	event now 1학기 중간고사 기간
+2학기 중간고사 이 언제야?	event now 2학기 중간고사 기간
+중간고사 언제임?	event now now 중간고사 기간
+1학기 중간고사 언제임?	event now 1학기 중간고사 기간
+2학기 중간고사 언제임?	event now 2학기 중간고사 기간
+중간고사 언제해?	event now now 중간고사 기간
+1학기 중간고사 언제해?	event now 1학기 중간고사 기간
+2학기 중간고사 언제해?	event now 2학기 중간고사 기간
+중간고사 언제봄?	event now now 중간고사 기간
+1학기 중간고사 언제봄?	event now 1학기 중간고사 기간
+2학기 중간고사 언제봄?	event now 2학기 중간고사 기간
+중간고사 언제보나요 ?	event now now 중간고사 기간
+1학기 중간고사 언제보나요 ?	event now 1학기 중간고사 기간
+2학기 중간고사 언제보나요 ?	event now 2학기 중간고사 기간
+중간고사 언제 해요?	event now now 중간고사 기간
+1학기 중간고사 언제 해요?	event now 1학기 중간고사 기간
+2학기 중간고사 언제 해요?	event now 2학기 중간고사 기간
+중간고사 언젠가요 ?	event now now 중간고사 기간
+1학기 중간고사 언젠가요 ?	event now 1학기 중간고사 기간
+2학기 중간고사 언젠가요 ?	event now 2학기 중간고사 기간
+중간고사 며칠임?	event now now 중간고사 기간
+1학기 중간고사 며칠임?	event now 1학기 중간고사 기간
+2학기 중간고사 며칠임?	event now 2학기 중간고사 기간
+중간고사 언제?	event now now 중간고사 기간
+1학기 중간고사 언제?	event now 1학기 중간고사 기간
+2학기 중간고사 언제?	event now 2학기 중간고사 기간
+중간고사 언제	event now now 중간고사 기간
+1학기 중간고사 언제	event now 1학기 중간고사 기간
+2학기 중간고사 언제	event now 2학기 중간고사 기간
+중간고사 날짜가 언제인가요?	event now now 중간고사 기간
+1학기 중간고사 날짜가 언제인가요?	event now 1학기 중간고사 기간
+2학기 중간고사 날짜가 언제인가요?	event now 2학기 중간고사 기간
+중간고사 날짜가 언제야?	event now now 중간고사 기간
+1학기 중간고사 날짜가 언제야?	event now 1학기 중간고사 기간
+2학기 중간고사 날짜가 언제야?	event now 2학기 중간고사 기간
+중간고사 언제죠?	event now now 중간고사 기간
+1학기 중간고사 언제죠?	event now 1학기 중간고사 기간
+2학기 중간고사 언제죠?	event now 2학기 중간고사 기간
+중간 고사 이 언제야?	event now now 중간고사 기간
+1학기 중간 고사 이 언제야?	event now 1학기 중간고사 기간
+2학기 중간 고사 이 언제야?	event now 2학기 중간고사 기간
+중간 고사 언제임?	event now now 중간고사 기간
+1학기 중간 고사 언제임?	event now 1학기 중간고사 기간
+2학기 중간 고사 언제임?	event now 2학기 중간고사 기간
+중간 고사 언제해?	event now now 중간고사 기간
+1학기 중간 고사 언제해?	event now 1학기 중간고사 기간
+2학기 중간 고사 언제해?	event now 2학기 중간고사 기간
+중간 고사 언제봄?	event now now 중간고사 기간
+1학기 중간 고사 언제봄?	event now 1학기 중간고사 기간
+2학기 중간 고사 언제봄?	event now 2학기 중간고사 기간
+중간 고사 언제보나요 ?	event now now 중간고사 기간
+1학기 중간 고사 언제보나요 ?	event now 1학기 중간고사 기간
+2학기 중간 고사 언제보나요 ?	event now 2학기 중간고사 기간
+중간 고사 언제 해요?	event now now 중간고사 기간
+1학기 중간 고사 언제 해요?	event now 1학기 중간고사 기간
+2학기 중간 고사 언제 해요?	event now 2학기 중간고사 기간
+중간 고사 언젠가요 ?	event now now 중간고사 기간
+1학기 중간 고사 언젠가요 ?	event now 1학기 중간고사 기간
+2학기 중간 고사 언젠가요 ?	event now 2학기 중간고사 기간
+중간 고사 며칠임?	event now now 중간고사 기간
+1학기 중간 고사 며칠임?	event now 1학기 중간고사 기간
+2학기 중간 고사 며칠임?	event now 2학기 중간고사 기간
+중간 고사 언제?	event now now 중간고사 기간
+1학기 중간 고사 언제?	event now 1학기 중간고사 기간
+2학기 중간 고사 언제?	event now 2학기 중간고사 기간
+중간 고사 언제	event now now 중간고사 기간
+1학기 중간 고사 언제	event now 1학기 중간고사 기간
+2학기 중간 고사 언제	event now 2학기 중간고사 기간
+중간 고사 날짜가 언제인가요?	event now now 중간고사 기간
+1학기 중간 고사 날짜가 언제인가요?	event now 1학기 중간고사 기간
+2학기 중간 고사 날짜가 언제인가요?	event now 2학기 중간고사 기간
+중간 고사 날짜가 언제야?	event now now 중간고사 기간
+1학기 중간 고사 날짜가 언제야?	event now 1학기 중간고사 기간
+2학기 중간 고사 날짜가 언제야?	event now 2학기 중간고사 기간
+중간 고사 언제죠?	event now now 중간고사 기간
+1학기 중간 고사 언제죠?	event now 1학기 중간고사 기간
+2학기 중간 고사 언제죠?	event now 2학기 중간고사 기간
+중간 이 언제야?	event now now 중간고사 기간
+1학기 중간 이 언제야?	event now 1학기 중간고사 기간
+2학기 중간 이 언제야?	event now 2학기 중간고사 기간
+중간 언제임?	event now now 중간고사 기간
+1학기 중간 언제임?	event now 1학기 중간고사 기간
+2학기 중간 언제임?	event now 2학기 중간고사 기간
+중간 언제해?	event now now 중간고사 기간
+1학기 중간 언제해?	event now 1학기 중간고사 기간
+2학기 중간 언제해?	event now 2학기 중간고사 기간
+중간 언제봄?	event now now 중간고사 기간
+1학기 중간 언제봄?	event now 1학기 중간고사 기간
+2학기 중간 언제봄?	event now 2학기 중간고사 기간
+중간 언제보나요 ?	event now now 중간고사 기간
+1학기 중간 언제보나요 ?	event now 1학기 중간고사 기간
+2학기 중간 언제보나요 ?	event now 2학기 중간고사 기간
+중간 언제 해요?	event now now 중간고사 기간
+1학기 중간 언제 해요?	event now 1학기 중간고사 기간
+2학기 중간 언제 해요?	event now 2학기 중간고사 기간
+중간 언젠가요 ?	event now now 중간고사 기간
+1학기 중간 언젠가요 ?	event now 1학기 중간고사 기간
+2학기 중간 언젠가요 ?	event now 2학기 중간고사 기간
+중간 며칠임?	event now now 중간고사 기간
+1학기 중간 며칠임?	event now 1학기 중간고사 기간
+2학기 중간 며칠임?	event now 2학기 중간고사 기간
+중간 언제?	event now now 중간고사 기간
+1학기 중간 언제?	event now 1학기 중간고사 기간
+2학기 중간 언제?	event now 2학기 중간고사 기간
+중간 언제	event now now 중간고사 기간
+1학기 중간 언제	event now 1학기 중간고사 기간
+2학기 중간 언제	event now 2학기 중간고사 기간
+중간 날짜가 언제인가요?	event now now 중간고사 기간
+1학기 중간 날짜가 언제인가요?	event now 1학기 중간고사 기간
+2학기 중간 날짜가 언제인가요?	event now 2학기 중간고사 기간
+중간 날짜가 언제야?	event now now 중간고사 기간
+1학기 중간 날짜가 언제야?	event now 1학기 중간고사 기간
+2학기 중간 날짜가 언제야?	event now 2학기 중간고사 기간
+중간 언제죠?	event now now 중간고사 기간
+1학기 중간 언제죠?	event now 1학기 중간고사 기간
+2학기 중간 언제죠?	event now 2학기 중간고사 기간
+중간 셤 이 언제야?	event now now 중간고사 기간
+1학기 중간 셤 이 언제야?	event now 1학기 중간고사 기간
+2학기 중간 셤 이 언제야?	event now 2학기 중간고사 기간
+중간 셤 언제임?	event now now 중간고사 기간
+1학기 중간 셤 언제임?	event now 1학기 중간고사 기간
+2학기 중간 셤 언제임?	event now 2학기 중간고사 기간
+중간 셤 언제해?	event now now 중간고사 기간
+1학기 중간 셤 언제해?	event now 1학기 중간고사 기간
+2학기 중간 셤 언제해?	event now 2학기 중간고사 기간
+중간 셤 언제봄?	event now now 중간고사 기간
+1학기 중간 셤 언제봄?	event now 1학기 중간고사 기간
+2학기 중간 셤 언제봄?	event now 2학기 중간고사 기간
+중간 셤 언제보나요 ?	event now now 중간고사 기간
+1학기 중간 셤 언제보나요 ?	event now 1학기 중간고사 기간
+2학기 중간 셤 언제보나요 ?	event now 2학기 중간고사 기간
+중간 셤 언제 해요?	event now now 중간고사 기간
+1학기 중간 셤 언제 해요?	event now 1학기 중간고사 기간
+2학기 중간 셤 언제 해요?	event now 2학기 중간고사 기간
+중간 셤 언젠가요 ?	event now now 중간고사 기간
+1학기 중간 셤 언젠가요 ?	event now 1학기 중간고사 기간
+2학기 중간 셤 언젠가요 ?	event now 2학기 중간고사 기간
+중간 셤 며칠임?	event now now 중간고사 기간
+1학기 중간 셤 며칠임?	event now 1학기 중간고사 기간
+2학기 중간 셤 며칠임?	event now 2학기 중간고사 기간
+중간 셤 언제?	event now now 중간고사 기간
+1학기 중간 셤 언제?	event now 1학기 중간고사 기간
+2학기 중간 셤 언제?	event now 2학기 중간고사 기간
+중간 셤 언제	event now now 중간고사 기간
+1학기 중간 셤 언제	event now 1학기 중간고사 기간
+2학기 중간 셤 언제	event now 2학기 중간고사 기간
+중간 셤 날짜가 언제인가요?	event now now 중간고사 기간
+1학기 중간 셤 날짜가 언제인가요?	event now 1학기 중간고사 기간
+2학기 중간 셤 날짜가 언제인가요?	event now 2학기 중간고사 기간
+중간 셤 날짜가 언제야?	event now now 중간고사 기간
+1학기 중간 셤 날짜가 언제야?	event now 1학기 중간고사 기간
+2학기 중간 셤 날짜가 언제야?	event now 2학기 중간고사 기간
+중간 셤 언제죠?	event now now 중간고사 기간
+1학기 중간 셤 언제죠?	event now 1학기 중간고사 기간
+2학기 중간 셤 언제죠?	event now 2학기 중간고사 기간
+중간 시험 이 언제야?	event now now 중간고사 기간
+1학기 중간 시험 이 언제야?	event now 1학기 중간고사 기간
+2학기 중간 시험 이 언제야?	event now 2학기 중간고사 기간
+중간 시험 언제임?	event now now 중간고사 기간
+1학기 중간 시험 언제임?	event now 1학기 중간고사 기간
+2학기 중간 시험 언제임?	event now 2학기 중간고사 기간
+중간 시험 언제해?	event now now 중간고사 기간
+1학기 중간 시험 언제해?	event now 1학기 중간고사 기간
+2학기 중간 시험 언제해?	event now 2학기 중간고사 기간
+중간 시험 언제봄?	event now now 중간고사 기간
+1학기 중간 시험 언제봄?	event now 1학기 중간고사 기간
+2학기 중간 시험 언제봄?	event now 2학기 중간고사 기간
+중간 시험 언제보나요 ?	event now now 중간고사 기간
+1학기 중간 시험 언제보나요 ?	event now 1학기 중간고사 기간
+2학기 중간 시험 언제보나요 ?	event now 2학기 중간고사 기간
+중간 시험 언제 해요?	event now now 중간고사 기간
+1학기 중간 시험 언제 해요?	event now 1학기 중간고사 기간
+2학기 중간 시험 언제 해요?	event now 2학기 중간고사 기간
+중간 시험 언젠가요 ?	event now now 중간고사 기간
+1학기 중간 시험 언젠가요 ?	event now 1학기 중간고사 기간
+2학기 중간 시험 언젠가요 ?	event now 2학기 중간고사 기간
+중간 시험 며칠임?	event now now 중간고사 기간
+1학기 중간 시험 며칠임?	event now 1학기 중간고사 기간
+2학기 중간 시험 며칠임?	event now 2학기 중간고사 기간
+중간 시험 언제?	event now now 중간고사 기간
+1학기 중간 시험 언제?	event now 1학기 중간고사 기간
+2학기 중간 시험 언제?	event now 2학기 중간고사 기간
+중간 시험 언제	event now now 중간고사 기간
+1학기 중간 시험 언제	event now 1학기 중간고사 기간
+2학기 중간 시험 언제	event now 2학기 중간고사 기간
+중간 시험 날짜가 언제인가요?	event now now 중간고사 기간
+1학기 중간 시험 날짜가 언제인가요?	event now 1학기 중간고사 기간
+2학기 중간 시험 날짜가 언제인가요?	event now 2학기 중간고사 기간
+중간 시험 날짜가 언제야?	event now now 중간고사 기간
+1학기 중간 시험 날짜가 언제야?	event now 1학기 중간고사 기간
+2학기 중간 시험 날짜가 언제야?	event now 2학기 중간고사 기간
+중간 시험 언제죠?	event now now 중간고사 기간
+1학기 중간 시험 언제죠?	event now 1학기 중간고사 기간
+2학기 중간 시험 언제죠?	event now 2학기 중간고사 기간
+학적변동 기간 이 언제야?	event now now 학적변동 기간
+1학기 학적변동 기간 이 언제야?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 이 언제야?	event now 2학기 학적변동 기간
+학적변동 기간 언제임?	event now now 학적변동 기간
+1학기 학적변동 기간 언제임?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제임?	event now 2학기 학적변동 기간
+학적변동 기간 언제해?	event now now 학적변동 기간
+1학기 학적변동 기간 언제해?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제해?	event now 2학기 학적변동 기간
+학적변동 기간 언제봄?	event now now 학적변동 기간
+1학기 학적변동 기간 언제봄?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제봄?	event now 2학기 학적변동 기간
+학적변동 기간 언제보나요 ?	event now now 학적변동 기간
+1학기 학적변동 기간 언제보나요 ?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제보나요 ?	event now 2학기 학적변동 기간
+학적변동 기간 언제 해요?	event now now 학적변동 기간
+1학기 학적변동 기간 언제 해요?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제 해요?	event now 2학기 학적변동 기간
+학적변동 기간 언젠가요 ?	event now now 학적변동 기간
+1학기 학적변동 기간 언젠가요 ?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언젠가요 ?	event now 2학기 학적변동 기간
+학적변동 기간 며칠임?	event now now 학적변동 기간
+1학기 학적변동 기간 며칠임?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 며칠임?	event now 2학기 학적변동 기간
+학적변동 기간 언제?	event now now 학적변동 기간
+1학기 학적변동 기간 언제?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제?	event now 2학기 학적변동 기간
+학적변동 기간 언제	event now now 학적변동 기간
+1학기 학적변동 기간 언제	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제	event now 2학기 학적변동 기간
+학적변동 기간 날짜가 언제인가요?	event now now 학적변동 기간
+1학기 학적변동 기간 날짜가 언제인가요?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 날짜가 언제인가요?	event now 2학기 학적변동 기간
+학적변동 기간 날짜가 언제야?	event now now 학적변동 기간
+1학기 학적변동 기간 날짜가 언제야?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 날짜가 언제야?	event now 2학기 학적변동 기간
+학적변동 기간 언제죠?	event now now 학적변동 기간
+1학기 학적변동 기간 언제죠?	event now 1학기 학적변동 기간
+2학기 학적변동 기간 언제죠?	event now 2학기 학적변동 기간
+학적 변동 이 언제야?	event now now 학적변동 기간
+1학기 학적 변동 이 언제야?	event now 1학기 학적변동 기간
+2학기 학적 변동 이 언제야?	event now 2학기 학적변동 기간
+학적 변동 언제임?	event now now 학적변동 기간
+1학기 학적 변동 언제임?	event now 1학기 학적변동 기간
+2학기 학적 변동 언제임?	event now 2학기 학적변동 기간
+학적 변동 언제해?	event now now 학적변동 기간
+1학기 학적 변동 언제해?	event now 1학기 학적변동 기간
+2학기 학적 변동 언제해?	event now 2학기 학적변동 기간
+학적 변동 언제봄?	event now now 학적변동 기간
+1학기 학적 변동 언제봄?	event now 1학기 학적변동 기간
+2학기 학적 변동 언제봄?	event now 2학기 학적변동 기간
+학적 변동 언제보나요 ?	event now now 학적변동 기간
+1학기 학적 변동 언제보나요 ?	event now 1학기 학적변동 기간
+2학기 학적 변동 언제보나요 ?	event now 2학기 학적변동 기간
+학적 변동 언제 해요?	event now now 학적변동 기간
+1학기 학적 변동 언제 해요?	event now 1학기 학적변동 기간
+2학기 학적 변동 언제 해요?	event now 2학기 학적변동 기간
+학적 변동 언젠가요 ?	event now now 학적변동 기간
+1학기 학적 변동 언젠가요 ?	event now 1학기 학적변동 기간
+2학기 학적 변동 언젠가요 ?	event now 2학기 학적변동 기간
+학적 변동 며칠임?	event now now 학적변동 기간
+1학기 학적 변동 며칠임?	event now 1학기 학적변동 기간
+2학기 학적 변동 며칠임?	event now 2학기 학적변동 기간
+학적 변동 언제?	event now now 학적변동 기간
+1학기 학적 변동 언제?	event now 1학기 학적변동 기간
+2학기 학적 변동 언제?	event now 2학기 학적변동 기간
+학적 변동 언제	event now now 학적변동 기간
+1학기 학적 변동 언제	event now 1학기 학적변동 기간
+2학기 학적 변동 언제	event now 2학기 학적변동 기간
+학적 변동 날짜가 언제인가요?	event now now 학적변동 기간
+1학기 학적 변동 날짜가 언제인가요?	event now 1학기 학적변동 기간
+2학기 학적 변동 날짜가 언제인가요?	event now 2학기 학적변동 기간
+학적 변동 날짜가 언제야?	event now now 학적변동 기간
+1학기 학적 변동 날짜가 언제야?	event now 1학기 학적변동 기간
+2학기 학적 변동 날짜가 언제야?	event now 2학기 학적변동 기간
+학적 변동 언제죠?	event now now 학적변동 기간
+1학기 학적 변동 언제죠?	event now 1학기 학적변동 기간
+2학기 학적 변동 언제죠?	event now 2학기 학적변동 기간
+동계 계절수업 이 언제야?	event now now 동계 계절수업
+1학기 동계 계절수업 이 언제야?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 이 언제야?	event now 2학기 동계 계절수업
+동계 계절수업 언제임?	event now now 동계 계절수업
+1학기 동계 계절수업 언제임?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제임?	event now 2학기 동계 계절수업
+동계 계절수업 언제해?	event now now 동계 계절수업
+1학기 동계 계절수업 언제해?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제해?	event now 2학기 동계 계절수업
+동계 계절수업 언제봄?	event now now 동계 계절수업
+1학기 동계 계절수업 언제봄?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제봄?	event now 2학기 동계 계절수업
+동계 계절수업 언제보나요 ?	event now now 동계 계절수업
+1학기 동계 계절수업 언제보나요 ?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제보나요 ?	event now 2학기 동계 계절수업
+동계 계절수업 언제 해요?	event now now 동계 계절수업
+1학기 동계 계절수업 언제 해요?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제 해요?	event now 2학기 동계 계절수업
+동계 계절수업 언젠가요 ?	event now now 동계 계절수업
+1학기 동계 계절수업 언젠가요 ?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언젠가요 ?	event now 2학기 동계 계절수업
+동계 계절수업 며칠임?	event now now 동계 계절수업
+1학기 동계 계절수업 며칠임?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 며칠임?	event now 2학기 동계 계절수업
+동계 계절수업 언제?	event now now 동계 계절수업
+1학기 동계 계절수업 언제?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제?	event now 2학기 동계 계절수업
+동계 계절수업 언제	event now now 동계 계절수업
+1학기 동계 계절수업 언제	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제	event now 2학기 동계 계절수업
+동계 계절수업 날짜가 언제인가요?	event now now 동계 계절수업
+1학기 동계 계절수업 날짜가 언제인가요?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 날짜가 언제인가요?	event now 2학기 동계 계절수업
+동계 계절수업 날짜가 언제야?	event now now 동계 계절수업
+1학기 동계 계절수업 날짜가 언제야?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 날짜가 언제야?	event now 2학기 동계 계절수업
+동계 계절수업 언제죠?	event now now 동계 계절수업
+1학기 동계 계절수업 언제죠?	event now 1학기 동계 계절수업
+2학기 동계 계절수업 언제죠?	event now 2학기 동계 계절수업
+동계 계절 수업 이 언제야?	event now now 동계 계절수업
+1학기 동계 계절 수업 이 언제야?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 이 언제야?	event now 2학기 동계 계절수업
+동계 계절 수업 언제임?	event now now 동계 계절수업
+1학기 동계 계절 수업 언제임?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제임?	event now 2학기 동계 계절수업
+동계 계절 수업 언제해?	event now now 동계 계절수업
+1학기 동계 계절 수업 언제해?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제해?	event now 2학기 동계 계절수업
+동계 계절 수업 언제봄?	event now now 동계 계절수업
+1학기 동계 계절 수업 언제봄?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제봄?	event now 2학기 동계 계절수업
+동계 계절 수업 언제보나요 ?	event now now 동계 계절수업
+1학기 동계 계절 수업 언제보나요 ?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제보나요 ?	event now 2학기 동계 계절수업
+동계 계절 수업 언제 해요?	event now now 동계 계절수업
+1학기 동계 계절 수업 언제 해요?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제 해요?	event now 2학기 동계 계절수업
+동계 계절 수업 언젠가요 ?	event now now 동계 계절수업
+1학기 동계 계절 수업 언젠가요 ?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언젠가요 ?	event now 2학기 동계 계절수업
+동계 계절 수업 며칠임?	event now now 동계 계절수업
+1학기 동계 계절 수업 며칠임?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 며칠임?	event now 2학기 동계 계절수업
+동계 계절 수업 언제?	event now now 동계 계절수업
+1학기 동계 계절 수업 언제?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제?	event now 2학기 동계 계절수업
+동계 계절 수업 언제	event now now 동계 계절수업
+1학기 동계 계절 수업 언제	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제	event now 2학기 동계 계절수업
+동계 계절 수업 날짜가 언제인가요?	event now now 동계 계절수업
+1학기 동계 계절 수업 날짜가 언제인가요?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 날짜가 언제인가요?	event now 2학기 동계 계절수업
+동계 계절 수업 날짜가 언제야?	event now now 동계 계절수업
+1학기 동계 계절 수업 날짜가 언제야?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 날짜가 언제야?	event now 2학기 동계 계절수업
+동계 계절 수업 언제죠?	event now now 동계 계절수업
+1학기 동계 계절 수업 언제죠?	event now 1학기 동계 계절수업
+2학기 동계 계절 수업 언제죠?	event now 2학기 동계 계절수업
+겨울 계절 수업 이 언제야?	event now now 동계 계절수업
+1학기 겨울 계절 수업 이 언제야?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 이 언제야?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제임?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제임?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제임?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제해?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제해?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제해?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제봄?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제봄?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제봄?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제보나요 ?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제보나요 ?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제보나요 ?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제 해요?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제 해요?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제 해요?	event now 2학기 동계 계절수업
+겨울 계절 수업 언젠가요 ?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언젠가요 ?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언젠가요 ?	event now 2학기 동계 계절수업
+겨울 계절 수업 며칠임?	event now now 동계 계절수업
+1학기 겨울 계절 수업 며칠임?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 며칠임?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제	event now 2학기 동계 계절수업
+겨울 계절 수업 날짜가 언제인가요?	event now now 동계 계절수업
+1학기 겨울 계절 수업 날짜가 언제인가요?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 날짜가 언제인가요?	event now 2학기 동계 계절수업
+겨울 계절 수업 날짜가 언제야?	event now now 동계 계절수업
+1학기 겨울 계절 수업 날짜가 언제야?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 날짜가 언제야?	event now 2학기 동계 계절수업
+겨울 계절 수업 언제죠?	event now now 동계 계절수업
+1학기 겨울 계절 수업 언제죠?	event now 1학기 동계 계절수업
+2학기 겨울 계절 수업 언제죠?	event now 2학기 동계 계절수업
+동계 계절 학기 이 언제야?	event now now 동계 계절수업
+1학기 동계 계절 학기 이 언제야?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 이 언제야?	event now 2학기 동계 계절수업
+동계 계절 학기 언제임?	event now now 동계 계절수업
+1학기 동계 계절 학기 언제임?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제임?	event now 2학기 동계 계절수업
+동계 계절 학기 언제해?	event now now 동계 계절수업
+1학기 동계 계절 학기 언제해?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제해?	event now 2학기 동계 계절수업
+동계 계절 학기 언제봄?	event now now 동계 계절수업
+1학기 동계 계절 학기 언제봄?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제봄?	event now 2학기 동계 계절수업
+동계 계절 학기 언제보나요 ?	event now now 동계 계절수업
+1학기 동계 계절 학기 언제보나요 ?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제보나요 ?	event now 2학기 동계 계절수업
+동계 계절 학기 언제 해요?	event now now 동계 계절수업
+1학기 동계 계절 학기 언제 해요?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제 해요?	event now 2학기 동계 계절수업
+동계 계절 학기 언젠가요 ?	event now now 동계 계절수업
+1학기 동계 계절 학기 언젠가요 ?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언젠가요 ?	event now 2학기 동계 계절수업
+동계 계절 학기 며칠임?	event now now 동계 계절수업
+1학기 동계 계절 학기 며칠임?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 며칠임?	event now 2학기 동계 계절수업
+동계 계절 학기 언제?	event now now 동계 계절수업
+1학기 동계 계절 학기 언제?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제?	event now 2학기 동계 계절수업
+동계 계절 학기 언제	event now now 동계 계절수업
+1학기 동계 계절 학기 언제	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제	event now 2학기 동계 계절수업
+동계 계절 학기 날짜가 언제인가요?	event now now 동계 계절수업
+1학기 동계 계절 학기 날짜가 언제인가요?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 날짜가 언제인가요?	event now 2학기 동계 계절수업
+동계 계절 학기 날짜가 언제야?	event now now 동계 계절수업
+1학기 동계 계절 학기 날짜가 언제야?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 날짜가 언제야?	event now 2학기 동계 계절수업
+동계 계절 학기 언제죠?	event now now 동계 계절수업
+1학기 동계 계절 학기 언제죠?	event now 1학기 동계 계절수업
+2학기 동계 계절 학기 언제죠?	event now 2학기 동계 계절수업
+겨울 계절 학기 이 언제야?	event now now 동계 계절수업
+1학기 겨울 계절 학기 이 언제야?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 이 언제야?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제임?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제임?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제임?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제해?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제해?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제해?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제봄?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제봄?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제봄?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제보나요 ?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제보나요 ?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제보나요 ?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제 해요?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제 해요?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제 해요?	event now 2학기 동계 계절수업
+겨울 계절 학기 언젠가요 ?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언젠가요 ?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언젠가요 ?	event now 2학기 동계 계절수업
+겨울 계절 학기 며칠임?	event now now 동계 계절수업
+1학기 겨울 계절 학기 며칠임?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 며칠임?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제	event now 2학기 동계 계절수업
+겨울 계절 학기 날짜가 언제인가요?	event now now 동계 계절수업
+1학기 겨울 계절 학기 날짜가 언제인가요?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 날짜가 언제인가요?	event now 2학기 동계 계절수업
+겨울 계절 학기 날짜가 언제야?	event now now 동계 계절수업
+1학기 겨울 계절 학기 날짜가 언제야?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 날짜가 언제야?	event now 2학기 동계 계절수업
+겨울 계절 학기 언제죠?	event now now 동계 계절수업
+1학기 겨울 계절 학기 언제죠?	event now 1학기 동계 계절수업
+2학기 겨울 계절 학기 언제죠?	event now 2학기 동계 계절수업
+동계 방학 이 언제야?	event now now 동계 방학
+1학기 동계 방학 이 언제야?	event now 1학기 동계 방학
+2학기 동계 방학 이 언제야?	event now 2학기 동계 방학
+동계 방학 언제임?	event now now 동계 방학
+1학기 동계 방학 언제임?	event now 1학기 동계 방학
+2학기 동계 방학 언제임?	event now 2학기 동계 방학
+동계 방학 언제해?	event now now 동계 방학
+1학기 동계 방학 언제해?	event now 1학기 동계 방학
+2학기 동계 방학 언제해?	event now 2학기 동계 방학
+동계 방학 언제봄?	event now now 동계 방학
+1학기 동계 방학 언제봄?	event now 1학기 동계 방학
+2학기 동계 방학 언제봄?	event now 2학기 동계 방학
+동계 방학 언제보나요 ?	event now now 동계 방학
+1학기 동계 방학 언제보나요 ?	event now 1학기 동계 방학
+2학기 동계 방학 언제보나요 ?	event now 2학기 동계 방학
+동계 방학 언제 해요?	event now now 동계 방학
+1학기 동계 방학 언제 해요?	event now 1학기 동계 방학
+2학기 동계 방학 언제 해요?	event now 2학기 동계 방학
+동계 방학 언젠가요 ?	event now now 동계 방학
+1학기 동계 방학 언젠가요 ?	event now 1학기 동계 방학
+2학기 동계 방학 언젠가요 ?	event now 2학기 동계 방학
+동계 방학 며칠임?	event now now 동계 방학
+1학기 동계 방학 며칠임?	event now 1학기 동계 방학
+2학기 동계 방학 며칠임?	event now 2학기 동계 방학
+동계 방학 언제?	event now now 동계 방학
+1학기 동계 방학 언제?	event now 1학기 동계 방학
+2학기 동계 방학 언제?	event now 2학기 동계 방학
+동계 방학 언제	event now now 동계 방학
+1학기 동계 방학 언제	event now 1학기 동계 방학
+2학기 동계 방학 언제	event now 2학기 동계 방학
+동계 방학 날짜가 언제인가요?	event now now 동계 방학
+1학기 동계 방학 날짜가 언제인가요?	event now 1학기 동계 방학
+2학기 동계 방학 날짜가 언제인가요?	event now 2학기 동계 방학
+동계 방학 날짜가 언제야?	event now now 동계 방학
+1학기 동계 방학 날짜가 언제야?	event now 1학기 동계 방학
+2학기 동계 방학 날짜가 언제야?	event now 2학기 동계 방학
+동계 방학 언제죠?	event now now 동계 방학
+1학기 동계 방학 언제죠?	event now 1학기 동계 방학
+2학기 동계 방학 언제죠?	event now 2학기 동계 방학
+겨울 방학 이 언제야?	event now now 동계 방학
+1학기 겨울 방학 이 언제야?	event now 1학기 동계 방학
+2학기 겨울 방학 이 언제야?	event now 2학기 동계 방학
+겨울 방학 언제임?	event now now 동계 방학
+1학기 겨울 방학 언제임?	event now 1학기 동계 방학
+2학기 겨울 방학 언제임?	event now 2학기 동계 방학
+겨울 방학 언제해?	event now now 동계 방학
+1학기 겨울 방학 언제해?	event now 1학기 동계 방학
+2학기 겨울 방학 언제해?	event now 2학기 동계 방학
+겨울 방학 언제봄?	event now now 동계 방학
+1학기 겨울 방학 언제봄?	event now 1학기 동계 방학
+2학기 겨울 방학 언제봄?	event now 2학기 동계 방학
+겨울 방학 언제보나요 ?	event now now 동계 방학
+1학기 겨울 방학 언제보나요 ?	event now 1학기 동계 방학
+2학기 겨울 방학 언제보나요 ?	event now 2학기 동계 방학
+겨울 방학 언제 해요?	event now now 동계 방학
+1학기 겨울 방학 언제 해요?	event now 1학기 동계 방학
+2학기 겨울 방학 언제 해요?	event now 2학기 동계 방학
+겨울 방학 언젠가요 ?	event now now 동계 방학
+1학기 겨울 방학 언젠가요 ?	event now 1학기 동계 방학
+2학기 겨울 방학 언젠가요 ?	event now 2학기 동계 방학
+겨울 방학 며칠임?	event now now 동계 방학
+1학기 겨울 방학 며칠임?	event now 1학기 동계 방학
+2학기 겨울 방학 며칠임?	event now 2학기 동계 방학
+겨울 방학 언제?	event now now 동계 방학
+1학기 겨울 방학 언제?	event now 1학기 동계 방학
+2학기 겨울 방학 언제?	event now 2학기 동계 방학
+겨울 방학 언제	event now now 동계 방학
+1학기 겨울 방학 언제	event now 1학기 동계 방학
+2학기 겨울 방학 언제	event now 2학기 동계 방학
+겨울 방학 날짜가 언제인가요?	event now now 동계 방학
+1학기 겨울 방학 날짜가 언제인가요?	event now 1학기 동계 방학
+2학기 겨울 방학 날짜가 언제인가요?	event now 2학기 동계 방학
+겨울 방학 날짜가 언제야?	event now now 동계 방학
+1학기 겨울 방학 날짜가 언제야?	event now 1학기 동계 방학
+2학기 겨울 방학 날짜가 언제야?	event now 2학기 동계 방학
+겨울 방학 언제죠?	event now now 동계 방학
+1학기 겨울 방학 언제죠?	event now 1학기 동계 방학
+2학기 겨울 방학 언제죠?	event now 2학기 동계 방학
+하계 계절수업 이 언제야?	event now now 하계 계절수업
+1학기 하계 계절수업 이 언제야?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 이 언제야?	event now 2학기 하계 계절수업
+하계 계절수업 언제임?	event now now 하계 계절수업
+1학기 하계 계절수업 언제임?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제임?	event now 2학기 하계 계절수업
+하계 계절수업 언제해?	event now now 하계 계절수업
+1학기 하계 계절수업 언제해?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제해?	event now 2학기 하계 계절수업
+하계 계절수업 언제봄?	event now now 하계 계절수업
+1학기 하계 계절수업 언제봄?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제봄?	event now 2학기 하계 계절수업
+하계 계절수업 언제보나요 ?	event now now 하계 계절수업
+1학기 하계 계절수업 언제보나요 ?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제보나요 ?	event now 2학기 하계 계절수업
+하계 계절수업 언제 해요?	event now now 하계 계절수업
+1학기 하계 계절수업 언제 해요?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제 해요?	event now 2학기 하계 계절수업
+하계 계절수업 언젠가요 ?	event now now 하계 계절수업
+1학기 하계 계절수업 언젠가요 ?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언젠가요 ?	event now 2학기 하계 계절수업
+하계 계절수업 며칠임?	event now now 하계 계절수업
+1학기 하계 계절수업 며칠임?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 며칠임?	event now 2학기 하계 계절수업
+하계 계절수업 언제?	event now now 하계 계절수업
+1학기 하계 계절수업 언제?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제?	event now 2학기 하계 계절수업
+하계 계절수업 언제	event now now 하계 계절수업
+1학기 하계 계절수업 언제	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제	event now 2학기 하계 계절수업
+하계 계절수업 날짜가 언제인가요?	event now now 하계 계절수업
+1학기 하계 계절수업 날짜가 언제인가요?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 날짜가 언제인가요?	event now 2학기 하계 계절수업
+하계 계절수업 날짜가 언제야?	event now now 하계 계절수업
+1학기 하계 계절수업 날짜가 언제야?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 날짜가 언제야?	event now 2학기 하계 계절수업
+하계 계절수업 언제죠?	event now now 하계 계절수업
+1학기 하계 계절수업 언제죠?	event now 1학기 하계 계절수업
+2학기 하계 계절수업 언제죠?	event now 2학기 하계 계절수업
+하계 계절 수업 이 언제야?	event now now 하계 계절수업
+1학기 하계 계절 수업 이 언제야?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 이 언제야?	event now 2학기 하계 계절수업
+하계 계절 수업 언제임?	event now now 하계 계절수업
+1학기 하계 계절 수업 언제임?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제임?	event now 2학기 하계 계절수업
+하계 계절 수업 언제해?	event now now 하계 계절수업
+1학기 하계 계절 수업 언제해?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제해?	event now 2학기 하계 계절수업
+하계 계절 수업 언제봄?	event now now 하계 계절수업
+1학기 하계 계절 수업 언제봄?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제봄?	event now 2학기 하계 계절수업
+하계 계절 수업 언제보나요 ?	event now now 하계 계절수업
+1학기 하계 계절 수업 언제보나요 ?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제보나요 ?	event now 2학기 하계 계절수업
+하계 계절 수업 언제 해요?	event now now 하계 계절수업
+1학기 하계 계절 수업 언제 해요?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제 해요?	event now 2학기 하계 계절수업
+하계 계절 수업 언젠가요 ?	event now now 하계 계절수업
+1학기 하계 계절 수업 언젠가요 ?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언젠가요 ?	event now 2학기 하계 계절수업
+하계 계절 수업 며칠임?	event now now 하계 계절수업
+1학기 하계 계절 수업 며칠임?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 며칠임?	event now 2학기 하계 계절수업
+하계 계절 수업 언제?	event now now 하계 계절수업
+1학기 하계 계절 수업 언제?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제?	event now 2학기 하계 계절수업
+하계 계절 수업 언제	event now now 하계 계절수업
+1학기 하계 계절 수업 언제	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제	event now 2학기 하계 계절수업
+하계 계절 수업 날짜가 언제인가요?	event now now 하계 계절수업
+1학기 하계 계절 수업 날짜가 언제인가요?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 날짜가 언제인가요?	event now 2학기 하계 계절수업
+하계 계절 수업 날짜가 언제야?	event now now 하계 계절수업
+1학기 하계 계절 수업 날짜가 언제야?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 날짜가 언제야?	event now 2학기 하계 계절수업
+하계 계절 수업 언제죠?	event now now 하계 계절수업
+1학기 하계 계절 수업 언제죠?	event now 1학기 하계 계절수업
+2학기 하계 계절 수업 언제죠?	event now 2학기 하계 계절수업
+여름 계절 수업 이 언제야?	event now now 하계 계절수업
+1학기 여름 계절 수업 이 언제야?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 이 언제야?	event now 2학기 하계 계절수업
+여름 계절 수업 언제임?	event now now 하계 계절수업
+1학기 여름 계절 수업 언제임?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제임?	event now 2학기 하계 계절수업
+여름 계절 수업 언제해?	event now now 하계 계절수업
+1학기 여름 계절 수업 언제해?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제해?	event now 2학기 하계 계절수업
+여름 계절 수업 언제봄?	event now now 하계 계절수업
+1학기 여름 계절 수업 언제봄?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제봄?	event now 2학기 하계 계절수업
+여름 계절 수업 언제보나요 ?	event now now 하계 계절수업
+1학기 여름 계절 수업 언제보나요 ?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제보나요 ?	event now 2학기 하계 계절수업
+여름 계절 수업 언제 해요?	event now now 하계 계절수업
+1학기 여름 계절 수업 언제 해요?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제 해요?	event now 2학기 하계 계절수업
+여름 계절 수업 언젠가요 ?	event now now 하계 계절수업
+1학기 여름 계절 수업 언젠가요 ?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언젠가요 ?	event now 2학기 하계 계절수업
+여름 계절 수업 며칠임?	event now now 하계 계절수업
+1학기 여름 계절 수업 며칠임?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 며칠임?	event now 2학기 하계 계절수업
+여름 계절 수업 언제?	event now now 하계 계절수업
+1학기 여름 계절 수업 언제?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제?	event now 2학기 하계 계절수업
+여름 계절 수업 언제	event now now 하계 계절수업
+1학기 여름 계절 수업 언제	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제	event now 2학기 하계 계절수업
+여름 계절 수업 날짜가 언제인가요?	event now now 하계 계절수업
+1학기 여름 계절 수업 날짜가 언제인가요?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 날짜가 언제인가요?	event now 2학기 하계 계절수업
+여름 계절 수업 날짜가 언제야?	event now now 하계 계절수업
+1학기 여름 계절 수업 날짜가 언제야?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 날짜가 언제야?	event now 2학기 하계 계절수업
+여름 계절 수업 언제죠?	event now now 하계 계절수업
+1학기 여름 계절 수업 언제죠?	event now 1학기 하계 계절수업
+2학기 여름 계절 수업 언제죠?	event now 2학기 하계 계절수업
+하계 계절 학기 이 언제야?	event now now 하계 계절수업
+1학기 하계 계절 학기 이 언제야?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 이 언제야?	event now 2학기 하계 계절수업
+하계 계절 학기 언제임?	event now now 하계 계절수업
+1학기 하계 계절 학기 언제임?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제임?	event now 2학기 하계 계절수업
+하계 계절 학기 언제해?	event now now 하계 계절수업
+1학기 하계 계절 학기 언제해?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제해?	event now 2학기 하계 계절수업
+하계 계절 학기 언제봄?	event now now 하계 계절수업
+1학기 하계 계절 학기 언제봄?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제봄?	event now 2학기 하계 계절수업
+하계 계절 학기 언제보나요 ?	event now now 하계 계절수업
+1학기 하계 계절 학기 언제보나요 ?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제보나요 ?	event now 2학기 하계 계절수업
+하계 계절 학기 언제 해요?	event now now 하계 계절수업
+1학기 하계 계절 학기 언제 해요?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제 해요?	event now 2학기 하계 계절수업
+하계 계절 학기 언젠가요 ?	event now now 하계 계절수업
+1학기 하계 계절 학기 언젠가요 ?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언젠가요 ?	event now 2학기 하계 계절수업
+하계 계절 학기 며칠임?	event now now 하계 계절수업
+1학기 하계 계절 학기 며칠임?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 며칠임?	event now 2학기 하계 계절수업
+하계 계절 학기 언제?	event now now 하계 계절수업
+1학기 하계 계절 학기 언제?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제?	event now 2학기 하계 계절수업
+하계 계절 학기 언제	event now now 하계 계절수업
+1학기 하계 계절 학기 언제	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제	event now 2학기 하계 계절수업
+하계 계절 학기 날짜가 언제인가요?	event now now 하계 계절수업
+1학기 하계 계절 학기 날짜가 언제인가요?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 날짜가 언제인가요?	event now 2학기 하계 계절수업
+하계 계절 학기 날짜가 언제야?	event now now 하계 계절수업
+1학기 하계 계절 학기 날짜가 언제야?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 날짜가 언제야?	event now 2학기 하계 계절수업
+하계 계절 학기 언제죠?	event now now 하계 계절수업
+1학기 하계 계절 학기 언제죠?	event now 1학기 하계 계절수업
+2학기 하계 계절 학기 언제죠?	event now 2학기 하계 계절수업
+여름 계절 학기 이 언제야?	event now now 하계 계절수업
+1학기 여름 계절 학기 이 언제야?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 이 언제야?	event now 2학기 하계 계절수업
+여름 계절 학기 언제임?	event now now 하계 계절수업
+1학기 여름 계절 학기 언제임?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제임?	event now 2학기 하계 계절수업
+여름 계절 학기 언제해?	event now now 하계 계절수업
+1학기 여름 계절 학기 언제해?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제해?	event now 2학기 하계 계절수업
+여름 계절 학기 언제봄?	event now now 하계 계절수업
+1학기 여름 계절 학기 언제봄?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제봄?	event now 2학기 하계 계절수업
+여름 계절 학기 언제보나요 ?	event now now 하계 계절수업
+1학기 여름 계절 학기 언제보나요 ?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제보나요 ?	event now 2학기 하계 계절수업
+여름 계절 학기 언제 해요?	event now now 하계 계절수업
+1학기 여름 계절 학기 언제 해요?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제 해요?	event now 2학기 하계 계절수업
+여름 계절 학기 언젠가요 ?	event now now 하계 계절수업
+1학기 여름 계절 학기 언젠가요 ?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언젠가요 ?	event now 2학기 하계 계절수업
+여름 계절 학기 며칠임?	event now now 하계 계절수업
+1학기 여름 계절 학기 며칠임?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 며칠임?	event now 2학기 하계 계절수업
+여름 계절 학기 언제?	event now now 하계 계절수업
+1학기 여름 계절 학기 언제?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제?	event now 2학기 하계 계절수업
+여름 계절 학기 언제	event now now 하계 계절수업
+1학기 여름 계절 학기 언제	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제	event now 2학기 하계 계절수업
+여름 계절 학기 날짜가 언제인가요?	event now now 하계 계절수업
+1학기 여름 계절 학기 날짜가 언제인가요?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 날짜가 언제인가요?	event now 2학기 하계 계절수업
+여름 계절 학기 날짜가 언제야?	event now now 하계 계절수업
+1학기 여름 계절 학기 날짜가 언제야?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 날짜가 언제야?	event now 2학기 하계 계절수업
+여름 계절 학기 언제죠?	event now now 하계 계절수업
+1학기 여름 계절 학기 언제죠?	event now 1학기 하계 계절수업
+2학기 여름 계절 학기 언제죠?	event now 2학기 하계 계절수업
+하계 방학 이 언제야?	event now now 하계 방학
+1학기 하계 방학 이 언제야?	event now 1학기 하계 방학
+2학기 하계 방학 이 언제야?	event now 2학기 하계 방학
+하계 방학 언제임?	event now now 하계 방학
+1학기 하계 방학 언제임?	event now 1학기 하계 방학
+2학기 하계 방학 언제임?	event now 2학기 하계 방학
+하계 방학 언제해?	event now now 하계 방학
+1학기 하계 방학 언제해?	event now 1학기 하계 방학
+2학기 하계 방학 언제해?	event now 2학기 하계 방학
+하계 방학 언제봄?	event now now 하계 방학
+1학기 하계 방학 언제봄?	event now 1학기 하계 방학
+2학기 하계 방학 언제봄?	event now 2학기 하계 방학
+하계 방학 언제보나요 ?	event now now 하계 방학
+1학기 하계 방학 언제보나요 ?	event now 1학기 하계 방학
+2학기 하계 방학 언제보나요 ?	event now 2학기 하계 방학
+하계 방학 언제 해요?	event now now 하계 방학
+1학기 하계 방학 언제 해요?	event now 1학기 하계 방학
+2학기 하계 방학 언제 해요?	event now 2학기 하계 방학
+하계 방학 언젠가요 ?	event now now 하계 방학
+1학기 하계 방학 언젠가요 ?	event now 1학기 하계 방학
+2학기 하계 방학 언젠가요 ?	event now 2학기 하계 방학
+하계 방학 며칠임?	event now now 하계 방학
+1학기 하계 방학 며칠임?	event now 1학기 하계 방학
+2학기 하계 방학 며칠임?	event now 2학기 하계 방학
+하계 방학 언제?	event now now 하계 방학
+1학기 하계 방학 언제?	event now 1학기 하계 방학
+2학기 하계 방학 언제?	event now 2학기 하계 방학
+하계 방학 언제	event now now 하계 방학
+1학기 하계 방학 언제	event now 1학기 하계 방학
+2학기 하계 방학 언제	event now 2학기 하계 방학
+하계 방학 날짜가 언제인가요?	event now now 하계 방학
+1학기 하계 방학 날짜가 언제인가요?	event now 1학기 하계 방학
+2학기 하계 방학 날짜가 언제인가요?	event now 2학기 하계 방학
+하계 방학 날짜가 언제야?	event now now 하계 방학
+1학기 하계 방학 날짜가 언제야?	event now 1학기 하계 방학
+2학기 하계 방학 날짜가 언제야?	event now 2학기 하계 방학
+하계 방학 언제죠?	event now now 하계 방학
+1학기 하계 방학 언제죠?	event now 1학기 하계 방학
+2학기 하계 방학 언제죠?	event now 2학기 하계 방학
+여름 방학 이 언제야?	event now now 하계 방학
+1학기 여름 방학 이 언제야?	event now 1학기 하계 방학
+2학기 여름 방학 이 언제야?	event now 2학기 하계 방학
+여름 방학 언제임?	event now now 하계 방학
+1학기 여름 방학 언제임?	event now 1학기 하계 방학
+2학기 여름 방학 언제임?	event now 2학기 하계 방학
+여름 방학 언제해?	event now now 하계 방학
+1학기 여름 방학 언제해?	event now 1학기 하계 방학
+2학기 여름 방학 언제해?	event now 2학기 하계 방학
+여름 방학 언제봄?	event now now 하계 방학
+1학기 여름 방학 언제봄?	event now 1학기 하계 방학
+2학기 여름 방학 언제봄?	event now 2학기 하계 방학
+여름 방학 언제보나요 ?	event now now 하계 방학
+1학기 여름 방학 언제보나요 ?	event now 1학기 하계 방학
+2학기 여름 방학 언제보나요 ?	event now 2학기 하계 방학
+여름 방학 언제 해요?	event now now 하계 방학
+1학기 여름 방학 언제 해요?	event now 1학기 하계 방학
+2학기 여름 방학 언제 해요?	event now 2학기 하계 방학
+여름 방학 언젠가요 ?	event now now 하계 방학
+1학기 여름 방학 언젠가요 ?	event now 1학기 하계 방학
+2학기 여름 방학 언젠가요 ?	event now 2학기 하계 방학
+여름 방학 며칠임?	event now now 하계 방학
+1학기 여름 방학 며칠임?	event now 1학기 하계 방학
+2학기 여름 방학 며칠임?	event now 2학기 하계 방학
+여름 방학 언제?	event now now 하계 방학
+1학기 여름 방학 언제?	event now 1학기 하계 방학
+2학기 여름 방학 언제?	event now 2학기 하계 방학
+여름 방학 언제	event now now 하계 방학
+1학기 여름 방학 언제	event now 1학기 하계 방학
+2학기 여름 방학 언제	event now 2학기 하계 방학
+여름 방학 날짜가 언제인가요?	event now now 하계 방학
+1학기 여름 방학 날짜가 언제인가요?	event now 1학기 하계 방학
+2학기 여름 방학 날짜가 언제인가요?	event now 2학기 하계 방학
+여름 방학 날짜가 언제야?	event now now 하계 방학
+1학기 여름 방학 날짜가 언제야?	event now 1학기 하계 방학
+2학기 여름 방학 날짜가 언제야?	event now 2학기 하계 방학
+여름 방학 언제죠?	event now now 하계 방학
+1학기 여름 방학 언제죠?	event now 1학기 하계 방학
+2학기 여름 방학 언제죠?	event now 2학기 하계 방학
+개교기념일 이 언제야?	event now now 개교기념일
+1학기 개교기념일 이 언제야?	event now 1학기 개교기념일
+2학기 개교기념일 이 언제야?	event now 2학기 개교기념일
+개교기념일 언제임?	event now now 개교기념일
+1학기 개교기념일 언제임?	event now 1학기 개교기념일
+2학기 개교기념일 언제임?	event now 2학기 개교기념일
+개교기념일 언제해?	event now now 개교기념일
+1학기 개교기념일 언제해?	event now 1학기 개교기념일
+2학기 개교기념일 언제해?	event now 2학기 개교기념일
+개교기념일 언제봄?	event now now 개교기념일
+1학기 개교기념일 언제봄?	event now 1학기 개교기념일
+2학기 개교기념일 언제봄?	event now 2학기 개교기념일
+개교기념일 언제보나요 ?	event now now 개교기념일
+1학기 개교기념일 언제보나요 ?	event now 1학기 개교기념일
+2학기 개교기념일 언제보나요 ?	event now 2학기 개교기념일
+개교기념일 언제 해요?	event now now 개교기념일
+1학기 개교기념일 언제 해요?	event now 1학기 개교기념일
+2학기 개교기념일 언제 해요?	event now 2학기 개교기념일
+개교기념일 언젠가요 ?	event now now 개교기념일
+1학기 개교기념일 언젠가요 ?	event now 1학기 개교기념일
+2학기 개교기념일 언젠가요 ?	event now 2학기 개교기념일
+개교기념일 며칠임?	event now now 개교기념일
+1학기 개교기념일 며칠임?	event now 1학기 개교기념일
+2학기 개교기념일 며칠임?	event now 2학기 개교기념일
+개교기념일 언제?	event now now 개교기념일
+1학기 개교기념일 언제?	event now 1학기 개교기념일
+2학기 개교기념일 언제?	event now 2학기 개교기념일
+개교기념일 언제	event now now 개교기념일
+1학기 개교기념일 언제	event now 1학기 개교기념일
+2학기 개교기념일 언제	event now 2학기 개교기념일
+개교기념일 날짜가 언제인가요?	event now now 개교기념일
+1학기 개교기념일 날짜가 언제인가요?	event now 1학기 개교기념일
+2학기 개교기념일 날짜가 언제인가요?	event now 2학기 개교기념일
+개교기념일 날짜가 언제야?	event now now 개교기념일
+1학기 개교기념일 날짜가 언제야?	event now 1학기 개교기념일
+2학기 개교기념일 날짜가 언제야?	event now 2학기 개교기념일
+개교기념일 언제죠?	event now now 개교기념일
+1학기 개교기념일 언제죠?	event now 1학기 개교기념일
+2학기 개교기념일 언제죠?	event now 2학기 개교기념일
+입학식 이 언제야?	event now now 입학식
+1학기 입학식 이 언제야?	event now 1학기 입학식
+2학기 입학식 이 언제야?	event now 2학기 입학식
+입학식 언제임?	event now now 입학식
+1학기 입학식 언제임?	event now 1학기 입학식
+2학기 입학식 언제임?	event now 2학기 입학식
+입학식 언제해?	event now now 입학식
+1학기 입학식 언제해?	event now 1학기 입학식
+2학기 입학식 언제해?	event now 2학기 입학식
+입학식 언제봄?	event now now 입학식
+1학기 입학식 언제봄?	event now 1학기 입학식
+2학기 입학식 언제봄?	event now 2학기 입학식
+입학식 언제보나요 ?	event now now 입학식
+1학기 입학식 언제보나요 ?	event now 1학기 입학식
+2학기 입학식 언제보나요 ?	event now 2학기 입학식
+입학식 언제 해요?	event now now 입학식
+1학기 입학식 언제 해요?	event now 1학기 입학식
+2학기 입학식 언제 해요?	event now 2학기 입학식
+입학식 언젠가요 ?	event now now 입학식
+1학기 입학식 언젠가요 ?	event now 1학기 입학식
+2학기 입학식 언젠가요 ?	event now 2학기 입학식
+입학식 며칠임?	event now now 입학식
+1학기 입학식 며칠임?	event now 1학기 입학식
+2학기 입학식 며칠임?	event now 2학기 입학식
+입학식 언제?	event now now 입학식
+1학기 입학식 언제?	event now 1학기 입학식
+2학기 입학식 언제?	event now 2학기 입학식
+입학식 언제	event now now 입학식
+1학기 입학식 언제	event now 1학기 입학식
+2학기 입학식 언제	event now 2학기 입학식
+입학식 날짜가 언제인가요?	event now now 입학식
+1학기 입학식 날짜가 언제인가요?	event now 1학기 입학식
+2학기 입학식 날짜가 언제인가요?	event now 2학기 입학식
+입학식 날짜가 언제야?	event now now 입학식
+1학기 입학식 날짜가 언제야?	event now 1학기 입학식
+2학기 입학식 날짜가 언제야?	event now 2학기 입학식
+입학식 언제죠?	event now now 입학식
+1학기 입학식 언제죠?	event now 1학기 입학식
+2학기 입학식 언제죠?	event now 2학기 입학식
 황종문 교수님 메일이 뭐야?	professor 이메일
 황종문 교수님 이메일이 뭐야?	professor 이메일
 황종문 교수님 메일 주소좀 알려줘	professor 이메일

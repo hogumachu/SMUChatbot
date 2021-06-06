@@ -6,6 +6,7 @@
     <title>Chatbot</title>
     {% block styles %}
     <script type="text/javascript">
+    var loadML = false;
     function info() {
         alert('상명대학교 캡스톤디자인 채팅해조입니다.');
     }
@@ -26,15 +27,29 @@
         addtext = "<div style='margin:30px 10px;text-align:right;'><span style='background-color:#A9D0F5;padding:6px 13px;border-radius:8px;'>" + ctext + "</span> </div>"
         document.getElementById("chatbox").innerHTML += addtext;
         var data = ctext;
-        $.ajax({
-                    url: '/get_info/',
-                    data: {'data':data},
-                    dataType: 'json',
-                    success: function(data){
-                        $('#chatbox').html(document.getElementById("chatbox").innerHTML += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + data.data + "</span> </div>");
-                    }
-        });
+        if (loadML) {
+             $.ajax({
+                        url: '/get_info/',
+                        data: {'data':data},
+                        dataType: 'json',
+                        success: function(data){
 
+                            $('#chatbox').html(document.getElementById("chatbox").innerHTML += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + data.data + "</span> </div>");
+                        }
+            });
+        } else {
+            loadML = true;
+            bottext = "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + "첫 실행 시에 다소 시간이 걸릴 수 있습니다." + "</span> </div>"
+            document.getElementById("chatbox").innerHTML += bottext;
+            $.ajax({
+                        url: '/get_info/',
+                        data: {'data':data},
+                        dataType: 'json',
+                        success: function(data){
+                            $('#chatbox').html(document.getElementById("chatbox").innerHTML += "<div style='margin:30px 10px;text-align:left;'><span style='background-color:#F5F6CE;padding:6px 13px;border-radius:8px;'>" + data.data + "</span> </div>");
+                        }
+            });
+        }
         document.getElementById("chattext").value="";
 
 

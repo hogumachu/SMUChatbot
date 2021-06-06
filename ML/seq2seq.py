@@ -115,7 +115,6 @@ def generate_text(input_seq):
     # 인덱스를 문장으로 변환
     sentence = convert_index_to_text(indexs, index_to_word)
 
-    print(sentence)
     return sentence
 
 # 예측을 위한 입력 생성
