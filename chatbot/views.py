@@ -19,8 +19,14 @@ def get_info(request):
     text = request.GET['data']
     print("##### get_info - text : " +text)
     data = select_function(text)
-    context = {'data' : data}
+    returnData = ""
+
+    for d in data:
+        returnData += "<div style=\'margin:15px 10px;text-align:left;\'><span style=\'background-color:#F5F6CE;padding:6px 13px;border-radius:8px;\'>" + d + "</span> </div>"
+    context = {'data' : returnData}
     print(data)
+    print(returnData)
+
     return JsonResponse(context)
 
 # seq2seq로 text를 보내 의도 파악을 하고 그에 해당하는 function (def) 으로 text를 보내 그에 대한 응답 text를 리턴
@@ -126,7 +132,11 @@ def professor(name, readWhat):
 
     pkg_list = soup.findAll("ul", "list4 staff")
     p = str(pkg_list).split('\t')
+    firstText = []
     result = []
+    for l in p:
+        if '소속' in l:
+            firstText += [name + " 교수님 (" + l[4:] + ") " + readWhat + "입니다."]
     for l in p:
         if readWhat == '이메일':
             if "mailto" in l:
@@ -135,14 +145,17 @@ def professor(name, readWhat):
         elif readWhat == '연락처':
             if '전화' in l:
                 result += [l]
-        elif readWhat == '소속':
-            if '소속' in l:
-                result += [l]
         elif readWhat == '위치':
             if '위치' in l:
                 result += [l]
-    #return str(''.join(result))
-    return result
+        elif readWhat == '소속':
+            if '소속' in l:
+                result += [l]
+    resultStr = []
+    for i in range(len(firstText)):
+        resultStr += [firstText[i]]
+        resultStr += [result[i]]
+    return resultStr
 
 # 날짜를 받아 그 날짜에 해당하는 학생식당 메뉴를 알 수 있음 (Only 중식, 현재 석식 진행 안하는 것 같음)
 def cafeteria(day):
@@ -151,7 +164,7 @@ def cafeteria(day):
     soup = BeautifulSoup(url, 'html.parser')
     pkg_list = soup.findAll("ul", "s-dot")
     p = str(pkg_list).split('\t')
-    food = ["", "", "", "", "", "", "", "", "", "", ""]
+    food = [[], [], [], [], [], [], [], [], [], [], []]
     count = 0
     for l in p[5:]:
         a = l.split("\n")
@@ -161,9 +174,9 @@ def cafeteria(day):
             elif ("amp;" in k):
                 t = k[4:-5] + "\n"
                 t = t.replace("amp;", "")
-                food[count] += t
+                food[count] += [t]
             else:
-                food[count] += k[4:-5] + "\n"
+                food[count] += [k[4:-5] + "\n"]
     # 1  =  월, 2  =  화, 3  =  수, 4  =  목, 5  =  금
     # 6  =  푸, 7  =  푸, 8  =  푸, 9  =  푸, 10 =  푸
     newDay = day
@@ -184,27 +197,27 @@ def cafeteria(day):
 
     if (newDay == "월요일"):
         if len(food[1]) > 3:
-            return [food[1]]
+            return food[1]
         else:
             return ["아직 메뉴가 업데이트 되지 않았습니다"]
     elif (newDay == "화요일"):
         if len(food[2]) > 3:
-            return [food[2]]
+            return food[2]
         else:
             return ["아직 메뉴가 업데이트 되지 않았습니다"]
     elif (newDay == "수요일"):
         if len(food[3]) > 3:
-            return [food[3]]
+            return food[3]
         else:
             return ["아직 메뉴가 업데이트 되지 않았습니다"]
     elif (newDay == "목요일"):
         if len(food[4]) > 3:
-            return [food[4]]
+            return food[4]
         else:
             return ["아직 메뉴가 업데이트 되지 않았습니다"]
     elif (newDay == "금요일"):
         if len(food[5]) > 3:
-            return [food[5]]
+            return food[5]
         else:
             return ["아직 메뉴가 업데이트 되지 않았습니다"]
     else:
