@@ -22,7 +22,7 @@ def get_info(request):
     returnData = ""
 
     for d in data:
-        returnData += "<div style=\'margin:15px 10px;text-align:left;\'><span style=\'background-color:#F5F6CE;padding:6px 13px;border-radius:8px;\'>" + d + "</span> </div>"
+        returnData += "<div style=\'margin:15px 10px;text-align:left;\'><span style=\'background-color:#A9D0F5;padding:6px 13px;border-radius:8px;\'>" + d + "</span> </div>"
     context = {'data' : returnData}
     print(data)
     print(returnData)
@@ -75,7 +75,8 @@ def event_to_date(year, semester, event):
         etd = Eventtodate.objects.filter(event=readEvent)
     resultStr = []
     for e in etd:
-        resultStr += [e.event + " " + e.eventdate1]
+        resultStr += [e.event]
+        resultStr += [e.eventdate1]
         if (e.eventdate2 != None):
             resultStr +=  [e.eventdate2]
         if (e.eventdate3 != None):
@@ -113,12 +114,12 @@ def date_to_event(text):
 def office_info(readOfficeName, readWhat):
     print("##### office_info - officeName, what : " + readOfficeName + " " +readWhat)
     oi = Officeinfo.objects.filter(officename= readOfficeName)
-    resultStr = []
+    resultStr = [readOfficeName + " " + readWhat + "입니다."]
     for o in oi:
         if readWhat == '연락처':
-            resultStr += [o.officename + ' ' + o.officetel]
+            resultStr += ['연락처 : ' + o.officetel]
         elif readWhat == '위치':
-            resultStr += [o.officename + ' ' + o.officelocation]
+            resultStr += ['위치 : ' + o.officelocation]
         else:
             resultStr += [o.officename + ' ' + o.officetel + ' ' + o.officelocation]
     return resultStr
@@ -155,6 +156,8 @@ def professor(name, readWhat):
     for i in range(len(firstText)):
         resultStr += [firstText[i]]
         resultStr += [result[i]]
+    if (len(resultStr)) < 1:
+        resultStr += ["해당하는 교수님 정보가 없습니다."]
     return resultStr
 
 # 날짜를 받아 그 날짜에 해당하는 학생식당 메뉴를 알 수 있음 (Only 중식, 현재 석식 진행 안하는 것 같음)
@@ -164,7 +167,7 @@ def cafeteria(day):
     soup = BeautifulSoup(url, 'html.parser')
     pkg_list = soup.findAll("ul", "s-dot")
     p = str(pkg_list).split('\t')
-    food = [[], [], [], [], [], [], [], [], [], [], []]
+    food = [[], ["월요일 메뉴입니다."], ["화요일 메뉴입니다."], ["수요일 메뉴입니다."], ["목요일 메뉴입니다."], ["금요일 메뉴입니다."], [], [], [], [], []]
     count = 0
     for l in p[5:]:
         a = l.split("\n")
