@@ -32,7 +32,7 @@ MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -114,3 +114,40 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
+
+# CORS_ORIGIN_ALLOW_ALL = True
+#
+# CORS_ALLOW_CREDENTIALS = True
+#
+# CSRF_TRUSTED_ORIGINS = (
+#     'localhost:8000',
+#     '127.0.0.1:8000',
+# )
+#
+# CORS_ORIGIN_WHITELIST = (
+#     'localhost:8000',
+#     '127.0.0.1:8000',
+# )
+#
+# CORS_ALLOW_HEADERS = (
+#     'access-control-allow-credentials',
+#     'access-control-allow-origin',
+#     'access-control-request-method',
+#     'access-control-request-headers',
+#     'accept',
+#     'accept-encoding',
+#     'accept-language',
+#     'authorization',
+#     'connection',
+#     'content-type',
+#     'dnt',
+#     'credentials',
+#     'host',
+#     'origin',
+#     'user-agent',
+#     'X-CSRFToken',
+#     'csrftoken',
+#     'x-requested-with',
+# )

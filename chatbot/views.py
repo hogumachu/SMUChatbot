@@ -7,6 +7,9 @@ from ML import seq2seq
 from datetime import date
 import datetime
 from konlpy.tag import Mecab
+from django.views.decorators.csrf import  csrf_exempt
+from django.utils.decorators import method_decorator
+
 mecab = Mecab()
 
 # 웹 생성
@@ -22,11 +25,11 @@ def get_info(request):
     returnData = ""
 
     for d in data:
-        returnData += "<div style=\'margin:15px 10px;text-align:left;\'><span style=\'background-color:#A9D0F5;padding:6px 13px;border-radius:8px;\'>" + d + "</span> </div>"
-    context = {'data' : returnData}
+        # returnData += "<div style=\'margin:15px 10px;text-align:left;\'><span style=\'background-color:#A9D0F5;padding:6px 13px;border-radius:8px;\'>" + d + "</span> </div>"
+        returnData += d
+    context = {'data': returnData}
     print(data)
     print(returnData)
-
     return JsonResponse(context)
 
 # seq2seq로 text를 보내 의도 파악을 하고 그에 해당하는 function (def) 으로 text를 보내 그에 대한 응답 text를 리턴
@@ -137,7 +140,7 @@ def professor(name, readWhat):
     result = []
     for l in p:
         if '소속' in l:
-            firstText += [name + " 교수님 (" + l[4:] + ") " + readWhat + "입니다."]
+            firstText += [name + " 교수님 (" + l[5:-1] + ") " + readWhat + "입니다.\n"]
     for l in p:
         if readWhat == '이메일':
             if "mailto" in l:
@@ -167,8 +170,9 @@ def cafeteria(day):
     soup = BeautifulSoup(url, 'html.parser')
     pkg_list = soup.findAll("ul", "s-dot")
     p = str(pkg_list).split('\t')
-    food = [[], ["월요일 메뉴입니다."], ["화요일 메뉴입니다."], ["수요일 메뉴입니다."], ["목요일 메뉴입니다."], ["금요일 메뉴입니다."], [], [], [], [], []]
+    food = [[], ["월요일 메뉴입니다.\n"], ["화요일 메뉴입니다.\n"], ["수요일 메뉴입니다.\n"], ["목요일 메뉴입니다.\n"], ["금요일 메뉴입니다.\n"], [], [], [], [], []]
     count = 0
+
     for l in p[5:]:
         a = l.split("\n")
         for k in a:
