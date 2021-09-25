@@ -21,13 +21,16 @@ def get_info(request):
     data = select_function(text)
     returnData = ""
 
-    for d in data:
-        returnData += "<div style=\'margin:15px 10px;text-align:left;\'><span style=\'background-color:#A9D0F5;padding:6px 13px;border-radius:8px;\'>" + d + "</span> </div>"
-    context = {'data' : returnData}
+    for index in range(len(data)):
+        if index == len(data) - 1:
+            returnData += data[index]
+        else:
+            returnData += data[index] + "\n"
+    content = {'content' : returnData}
     print(data)
     print(returnData)
 
-    return JsonResponse(context)
+    return JsonResponse(content)
 
 # seq2seq로 text를 보내 의도 파악을 하고 그에 해당하는 function (def) 으로 text를 보내 그에 대한 응답 text를 리턴
 def select_function(text):
@@ -49,6 +52,8 @@ def select_function(text):
        returnValue = event_to_date(splitSentence[1], splitSentence[2], splitSentence[3:])
    elif (splitSentence[0] == 'date'):
        returnValue = date_to_event(text)
+   else:
+       returnValue = [sentence]
    return returnValue
 
 # 이벤트 (학사에 대한 내용) 으로 그 이벤트의 날짜를 알 수 있음
@@ -57,7 +62,7 @@ def event_to_date(year, semester, event):
     if year == "now":
         year = "2021년"
     if semester == "now":
-        semester = "1학기"
+        semester = "2학기"
     addEvent = ""
     for i in event:
         addEvent += i+ " "
@@ -137,7 +142,7 @@ def professor(name, readWhat):
     result = []
     for l in p:
         if '소속' in l:
-            firstText += [name + " 교수님 (" + l[4:] + ") " + readWhat + "입니다."]
+            firstText += [name + " 교수님 (" + l[5:-1] + ") " + readWhat + "입니다."]
     for l in p:
         if readWhat == '이메일':
             if "mailto" in l:
@@ -167,7 +172,7 @@ def cafeteria(day):
     soup = BeautifulSoup(url, 'html.parser')
     pkg_list = soup.findAll("ul", "s-dot")
     p = str(pkg_list).split('\t')
-    food = [[], ["월요일 메뉴입니다."], ["화요일 메뉴입니다."], ["수요일 메뉴입니다."], ["목요일 메뉴입니다."], ["금요일 메뉴입니다."], [], [], [], [], []]
+    food = [[], ["월요일 메뉴입니다.\n"], ["화요일 메뉴입니다.\n"], ["수요일 메뉴입니다.\n"], ["목요일 메뉴입니다.\n"], ["금요일 메뉴입니다.\n"], [], [], [], [], []]
     count = 0
     for l in p[5:]:
         a = l.split("\n")
@@ -175,11 +180,11 @@ def cafeteria(day):
             if ("ul class=" in k):
                 count += 1
             elif ("amp;" in k):
-                t = k[4:-5] + "\n"
+                t = k[4:-5]
                 t = t.replace("amp;", "")
                 food[count] += [t]
             else:
-                food[count] += [k[4:-5] + "\n"]
+                food[count] += [k[4:-5]]
     # 1  =  월, 2  =  화, 3  =  수, 4  =  목, 5  =  금
     # 6  =  푸, 7  =  푸, 8  =  푸, 9  =  푸, 10 =  푸
     newDay = day
